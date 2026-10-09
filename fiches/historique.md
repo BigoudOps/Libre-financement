@@ -27,3 +27,22 @@ Programmes terminés ou ponctuels. Ils ne se redéposent plus, mais montrent ce 
 - **Fin** : les candidatures ont pris fin le 6 juillet 2023 ; la page renvoie vers la liste des participants sélectionnés aux deux tours
 
 **Source** : [Sovereign Tech Agency — programmes](https://www.sovereign.tech/programs)
+
+## NGI Fediversity (NLnet)
+
+- **Montant** : projets de 5 000 € à 50 000 €, enveloppe totale de 450 000 €
+- **Éligibilité** : individus, petites équipes, organisations de tout type
+- **Licence** : résultats publiés sous licence open source
+- **Fin** : le 12e et dernier appel a clos le 1er août 2026. NLnet poursuit avec d'autres fonds, voir [NLnet](subventions-publiques.md#nlnet).
+
+**Source** : [NLnet — NGI Fediversity](https://nlnet.nl/fediversity/)
+
+## Mozilla Open Source Support (MOSS)
+
+- **Financeur** : Mozilla Foundation
+- **Montant** : de 5 000 $ à 150 000 $ ; en moyenne environ 70 000 $
+- **Licence** : « a free software license according to the FSF or an open source license according to the OSI »
+- **Éligibilité** : individus, ONG, entreprises maintenant un projet open source
+- **Fin** : hiatus indéfini depuis la restructuration de Mozilla de 2020 ; candidatures suspendues
+
+**Source** : [Mozilla MOSS](https://www.mozilla.org/en-US/moss/)
