@@ -24,6 +24,7 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [FLOSS/fund](fiches/fonds-prives.md#flossfund-zerodha) | non précisée, vise des projets FLOSS |
 | [Open Technology Fund](fiches/fonds-prives.md#open-technology-fund--foss-sustainability-fund) | non indiquée |
 | [Codex for Open Source](fiches/fonds-prives.md#codex-for-open-source-openai) | aucune condition mentionnée |
+| [Prototype Fund Suisse](fiches/fonds-prives.md#prototype-fund-suisse) | open source encouragé mais non obligatoire ; aucune licence nommée |
 | [Ethereum Foundation ESP](fiches/web3-et-science.md#ethereum-foundation--esp) | résultats open source ou librement disponibles |
 | [Filecoin Foundation Open Grants](fiches/web3-et-science.md#filecoin-foundation--open-grants) | double licence MIT et Apache 2.0 |
 | [Solana Foundation](fiches/web3-et-science.md#solana-foundation--subventions) | « open source in spirit », pas de licence nommée |

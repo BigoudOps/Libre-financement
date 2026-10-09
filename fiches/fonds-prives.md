@@ -58,3 +58,15 @@
 - **Candidature** : formulaire sur openai.com/form/codex-for-oss, avec acceptation des conditions du programme
 
 **Source** : [OpenAI — Codex for OSS](https://developers.openai.com/codex/community/codex-for-oss)
+
+## Prototype Fund Suisse
+
+- **Type** : subvention de prototypage
+- **Financeur** : Fondation Mercator Suisse ; programme initié et géré par Opendata.ch
+- **Montant** : jusqu'à 50 000 CHF par projet, pour une période de prototypage de 4 mois
+- **Licence** : « publish code, data, or components under open-source licenses where feasible » (encouragé mais non obligatoire ; aucune licence nommée)
+- **Éligibilité** : individus et petites équipes autorisés à travailler en Suisse (« eligible to work in Switzerland »)
+- **Candidature** : formulaire en ligne sur prototypefund-app.opendata.ch, par sessions d'appel ; sélection par jury
+- **Exemples** : non précisé (quatre rounds complétés au moment de la consultation)
+
+**Source** : [Prototype Fund Suisse — opendata.ch](https://prototypefund.opendata.ch/)
