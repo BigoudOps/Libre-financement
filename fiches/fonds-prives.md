@@ -1,0 +1,60 @@
+# Fonds privés
+
+## GitHub Secure Open Source Fund
+
+- **Type** : bourse avec programme de formation à la sécurité
+- **Financeur** : GitHub et partenaires
+- **Montant** : 10 000 $ par projet, versés directement aux mainteneurs via GitHub Sponsors : 6 000 $ pendant le programme, 2 000 $ à 6 mois, 2 000 $ à 12 mois. Crédits Azure de 10 000 $ ; certains projets éligibles peuvent obtenir jusqu'à 150 000 $ via Microsoft for Startups.
+- **Licence** : licence open source claire ; projet « open source first » avec traction et adoption communautaire démontrées
+- **Éligibilité** : mainteneur actuel, seul ou en équipe de deux personnes maximum ; 18 ans ou plus ; profil GitHub actif ; région prise en charge par GitHub Sponsors ; ne pas être employé de GitHub ; gouvernance claire avant le lancement
+- **Candidature** : en continu, formulaire hébergé par Microsoft, entretien virtuel pour les projets retenus
+- **Engagement** : 15 heures sur 3 semaines, puis 2,5 heures à chaque point de suivi à 6 et 12 mois
+
+**Sources** : [GitHub — Secure Open Source Fund](https://github.com/open-source/github-secure-open-source-fund) ; [GitHub Blog — annonce](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/)
+
+## FLOSS/fund (Zerodha)
+
+- **Type** : subvention
+- **Financeur** : Zerodha, avec FOSS United Foundation comme partenaire
+- **Montant** : de 10 000 $ à 100 000 $ par projet et par an, par paliers de 25 000 $ ; fonds de 1 million de dollars par an
+- **Licence** : non précisée ; le fonds vise des projets FLOSS
+- **Éligibilité** : individus, projets, groupes, communautés ou organisations ; compte bancaire et documents fiscaux requis, variables selon le pays. Projets existants, largement utilisés et ayant un impact ; les projets très récents ou à faible usage ne sont pas considérés.
+- **Candidature** : écrire un fichier `funding.json` (format décrit sur fundingjson.org), le publier sur le site ou le dépôt du projet, puis soumettre son URL sur dir.floss.fund. Les candidatures sont publiques dès le dépôt.
+- **Sélection** : comité interne selon la valeur, l'impact, la criticité et l'innovation, évaluation à la fin de chaque trimestre ; versement après formalités administratives, jusqu'à 4 semaines
+- **Exemples** : première tranche de 325 000 $ répartis entre 9 projets (mai 2025). Zerodha cite OpenSSL, FFmpeg, Blender et OpenStreetMap parmi les bénéficiaires de 2025.
+
+**Sources** : [floss.fund](https://floss.fund) ; [FLOSS/fund — FAQ](https://floss.fund/faq/) ; [Zerodha — rapport 2025](https://zerodha.com/open-source/2025-report/)
+
+## Alpha-Omega
+
+- **Type** : subvention pour la sécurité de projets open source critiques
+- **Financeur** : Alpha-Omega (OpenSSF)
+- **Montant** : non précisé sur la page de candidature
+- **Licence** : licence approuvée par l'OSI, obligatoire, à prouver dans la proposition
+- **Éligibilité** : projets autonomes, fondations couvrant plusieurs projets, services fondamentaux de l'écosystème. Évaluation sur l'impact de sécurité du financement et la collaboration pendant la phase de co-conception.
+- **Candidature** : formulaire d'intake (« Grant Submission Form ») ; seules les demandes passant par le formulaire sont examinées. Si le projet correspond : consultation de sécurité, puis proposition et Statement of Work rédigés avec l'équipe.
+- **Cycles** : quatre par an. Soumission pendant un mois (janvier, avril, juillet, octobre), revue le mois suivant, décision et versement le mois d'après.
+- **Obligations** : rapports mensuels publics, tables rondes mensuelles avec les autres projets financés, trois articles de blog (début, milieu, fin). Le financement futur dépend de progrès significatifs.
+- **Exemples** (subventions 2025) : Eclipse Foundation 800 000 $, Ruby Central 700 000 $, Rust Foundation 695 150 $, OpenJS 580 000 $, Trail of Bits 178 000 $
+
+**Sources** : [Alpha-Omega — comment candidater](https://alpha-omega.dev) ; [Alpha-Omega — bénéficiaires](https://alpha-omega.dev/grants/grantrecipients/)
+
+## Open Technology Fund — FOSS Sustainability Fund
+
+- **Type** : subvention
+- **Objet** : maintenabilité, interopérabilité, reproductibilité, sécurité et résilience de l'écosystème technologique
+- **Montant, licence, éligibilité** : non indiqués sur la page de l'OTF
+- **Candidature** : lien « Apply for Support » sur apply.opentech.fund
+- **Autres fonds de l'OTF** : Internet Freedom Fund, Rapid Response Fund, Surge and Sustain Fund, Information Controls Research Program
+
+**Source** : [Open Technology Fund](https://www.opentech.fund/funds/foss-sustainability-fund/)
+
+## Codex for Open Source (OpenAI)
+
+- **Type** : avantages en nature
+- **Contenu** : six mois de ChatGPT Pro avec Codex ; accès conditionnel à Codex Security ; crédits API via le Codex Open Source Fund (1 million de dollars) pour la revue de pull requests, l'automatisation de la maintenance, les releases
+- **Licence** : aucune condition mentionnée
+- **Éligibilité** : mainteneur principal ou responsable d'un projet public largement utilisé. Codex Security : mainteneur principal avec droits d'écriture, examiné au cas par cas.
+- **Candidature** : formulaire sur openai.com/form/codex-for-oss, avec acceptation des conditions du programme
+
+**Source** : [OpenAI — Codex for OSS](https://developers.openai.com/codex/community/codex-for-oss)
