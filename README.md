@@ -20,3 +20,7 @@ Toutes les informations ont été relevées sur les pages officielles des progra
 ## Contribuer
 
 [CONTRIBUTING.md](CONTRIBUTING.md)
+
+## Licence
+
+Ce dépôt est publié sous licence [Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International](LICENSE) (CC BY-SA 4.0). Vous pouvez copier, adapter et redistribuer le contenu, y compris commercialement, en citant « Libre Financement » avec un lien vers ce dépôt et en partageant vos modifications sous la même licence.
