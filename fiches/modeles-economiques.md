@@ -20,3 +20,12 @@ Le même logiciel est proposé sous une licence libre et sous une licence commer
 - **Ce que la licence commerciale permet** : distribuer des binaires MySQL avec un logiciel commercial sans que celui-ci soit soumis à la GPL
 
 **Source** : [MySQL — licences OEM](https://www.mysql.com/about/legal/licensing/oem/)
+
+## Open core
+
+Positions publiées par des projets, sans définition commune.
+
+- **Keygen** écrit viser un modèle « open core » avec la FCL et cite Plausible, GitLab, PostHog et Cal.com comme projets open core. Il précise que les fonctions commerciales ne deviennent jamais open source, sauf licence commerciale ponctuelle qui se comporte comme la BUSL ou la FSL.
+- **Nextcloud** critique les produits « Open Core » : ses risques seraient similaires à ceux des logiciels propriétaires. Nextcloud ne se présente pas comme open core.
+
+**Sources** : [Keygen — passage au FCL](https://keygen.sh/blog/keygen-is-now-fair-source/) ; [Nextcloud — licence et entreprises (article de 2018)](https://nextcloud.com/blog/how-nextcloud-protects-your-business-from-license-uncertainty)

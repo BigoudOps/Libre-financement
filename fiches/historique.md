@@ -12,13 +12,14 @@ Programmes terminés ou ponctuels. Ils ne se redéposent plus, mais montrent ce 
 
 ## Prix BlueHats (DINUM et NLnet), édition 2024
 
-- **Montant** : 4 prix de 10 000 €, à dépenser librement
-- **Conditions** : projet utilisé par au moins une agence de l'administration française, maintenu par une personne physique, une association ou une fondation à but non lucratif, sous une licence reconnue libre par l'OSI et la FSF
+- **Montant** : 4 prix de 10 000 €, à dépenser librement, sans contrepartie pour les lauréats
+- **Financement** : une convention de subvention de 60 000 € entre la DINUM et la fondation NLnet, signée le 4 novembre 2022. La DINUM met en place un jury et définit le formulaire de candidature ; NLnet reçoit les candidatures et verse 10 000 € par lauréat.
+- **Conditions** : projet utilisé par au moins une agence de l'administration française, maintenu par une personne physique, une association ou une fondation à but non lucratif ; la convention vise les citoyens de l'Union européenne et les organisations à but non lucratif établies dans l'UE. Licence reconnue libre par l'OSI et la FSF.
 - **Désignation** : n'importe qui pouvait nommer un projet ; un jury évaluait et publiait un rapport
 - **Lauréats 2024** : dnsmasq, node-oidc-provider, Apache Maven, Monitoring Plugins
 - **Suite** : aucune édition ultérieure n'est mentionnée sur la page de NLnet
 
-**Sources** : [NLnet — BlueHats 2024](https://nlnet.nl/bluehatsprize/2024/) ; [NLnet — annonce du 13 décembre 2023](https://nlnet.nl/news/2023/20231213-bluehats.html)
+**Sources** : [NLnet — BlueHats 2024](https://nlnet.nl/bluehatsprize/2024/) ; [NLnet — annonce du 13 décembre 2023](https://nlnet.nl/news/2023/20231213-bluehats.html) ; [DINUM — convention de subvention avec NLnet](https://code.gouv.fr/docs/DINUM-NLNET-convention-subvention-23112022.pdf)
 
 ## Sovereign Tech Challenge (Contribute Back Challenges)
 
