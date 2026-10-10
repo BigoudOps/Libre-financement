@@ -153,7 +153,7 @@ Les entrées sont classées par nature : bourses et mentorat rémunérés, prime
 - **Financeur** : AWS
 - **Contenu** : crédits promotionnels, utilisés « typically » pour les tests en amont et de performance, le CI/CD ou le stockage d'artefacts ; montants non précisés ; crédits expirant après un an ; non applicables rétroactivement
 - **Licence** : « Your software project must also be licensed under an OSI-approved license » ; l'article encourage à candidater même si les licences courantes du projet ne sont pas approuvées par l'OSI
-- **Éligibilité** : compte AWS actif avec moyen de paiement valide et sans facture impayée ; demandes jugées sur leur pertinence pour AWS et ses clients
+- **Éligibilité** : compte AWS actif avec moyen de paiement valide et sans facture impayée ; demandes jugées sur leur pertinence pour AWS et ses clients, selon les « Amazon Leadership Principles » ; l'article indique favoriser en général les projets dont les mainteneurs viennent de plusieurs entités ou qui appartiennent à des fondations ou à des organisations à but non lucratif
 - **Candidature** : formulaire « AWS Open Source Credits Application » envoyé par courriel à awsopen@amazon.com ; examen mensuel
 - **Limite de cette fiche** : seul l'article AWS du 14 octobre 2019 a pu être lu ; la page actuelle du programme n'a pas pu être consultée, ces conditions sont donc à revérifier
 
