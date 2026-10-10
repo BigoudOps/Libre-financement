@@ -29,3 +29,35 @@
 - **Licences acceptées** : non précisées
 
 **Source** : [Tidelift — devenir lifter](https://tidelift.com/about/lifter)
+
+
+## funding.json
+
+- **Principe** : manifeste JSON autonome qui permet à un projet libre de déclarer ses besoins de financement dans un format lisible par machine, comparé par sa page à robots.txt. Il se publie dans un dépôt ou sur un site, sans emplacement imposé : les exemples de la page montrent la racine d'un site (`https://example.com/funding.json`) et un chemin de dépôt. Un fichier `/.well-known/funding-manifest-urls` sert à vérifier des URL hébergées sur un autre nom de domaine que le manifeste.
+- **Champs obligatoires** : au niveau racine, `entity` et `funding`. `entity` : `type`, `role`, `name`, `email`, `description`, `webpageUrl.url`. `funding.channels[]` : `guid`, `type`. `funding.plans[]` : `guid`, `status`, `name`, `amount`, `currency`, `frequency`, `channels`. Pour chaque projet déclaré dans `projects[]` : `guid`, `name`, `description`, `webpageUrl.url`, `repositoryUrl.url`, `licenses`, `tags`.
+- **Outils** : un validateur en ligne (dir.floss.fund/validate) et un constructeur de manifeste sont liés depuis la page. La page cite l'annuaire de FLOSS/fund parmi les outils, voir [FLOSS/fund](fonds-prives.md#flossfund-zerodha).
+- **Licence de la spécification, conditions d'éligibilité** : non précisées sur la page
+
+**Source** : [funding.json](https://fundingjson.org/)
+
+## FUNDING.yml (bouton de soutien d'un dépôt GitHub)
+
+Ce fichier ajoute un bouton de soutien à un dépôt GitHub. Il n'est utile que si le dépôt y est hébergé ou en miroir, mais il liste des plateformes hors GitHub Sponsors.
+
+- **Emplacement** : fichier `FUNDING.yml` dans le dossier `.github` du dépôt, sur la branche par défaut
+- **Plateformes prises en charge** (syntaxe de la documentation) :
+  - `community_bridge: PROJET` (LFX Mentorship)
+  - `github: UTILISATEUR` (un compte d'organisation et jusqu'à quatre développeurs)
+  - `issuehunt: UTILISATEUR`
+  - `ko_fi: UTILISATEUR`
+  - `liberapay: UTILISATEUR`
+  - `open_collective: UTILISATEUR`
+  - `patreon: UTILISATEUR`
+  - `tidelift: PLATEFORME/PAQUET`
+  - `polar: UTILISATEUR`
+  - `buy_me_a_coffee: UTILISATEUR`
+  - `thanks_dev: u/gh/UTILISATEUR`
+  - `custom: LIEN` : jusqu'à quatre URL personnalisées, utiles pour toute autre plateforme
+- **Limite** : chaque plateforme externe prend un seul identifiant (utilisateur, paquet ou projet)
+
+**Source** : [GitHub — afficher un bouton de soutien](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository)

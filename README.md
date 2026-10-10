@@ -12,7 +12,7 @@ Toutes les informations ont été relevées sur les pages officielles des progra
 - [Programmes d'entreprises et bourses](fiches/programmes-entreprises-et-bourses.md) : Google Summer of Code, Outreachy, LFX Mentorship, Algora, StackAid, Patreon, crédits et licences (GitLab, Docker, Sentry, Netlify, Vercel, Cloudflare, AWS, Azure, JetBrains)
 - [Web3 et science](fiches/web3-et-science.md) : Ethereum Foundation, Stellar, Zcash, Filecoin, Solana, Optimism, NumFOCUS, NSF POSE
 - [Entreprises](fiches/entreprises.md) : Open Source Pledge, thanks.dev
-- [Plateformes](fiches/plateformes.md) : Open Collective, Liberapay, Tidelift
+- [Plateformes](fiches/plateformes.md) : Open Collective, Liberapay, Tidelift, funding.json, FUNDING.yml
 - [Modèles économiques](fiches/modeles-economiques.md) : Fair Source, double licence, open core
 - [France](fiches/france.md) : micro-entrepreneur, CAE, association, fonds de dotation, Acre, Arce, Adie
 - [Historique](fiches/historique.md) : NGI Zero Commons Fund, Prix BlueHats, Sovereign Tech Challenge, NGI Fediversity, MOSS
