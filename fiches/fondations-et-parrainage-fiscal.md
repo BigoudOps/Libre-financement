@@ -126,10 +126,3 @@ Cette fiche couvre les structures qui hébergent juridiquement et financièremen
 - **Fin** : la page indique que le conseil a décidé de dissoudre la fondation d'ici fin 2024 ; le programme de parrainage fiscal s'est terminé le 30 septembre 2024
 - **Source** : [Open Collective Foundation](https://opencollective.com/foundation)
 
-### Mozilla Open Source Support (MOSS)
-
-- **Type** : subvention
-- **Fin** : la page indique une « indefinite hiatus » et que le programme n'accepte pas de candidatures ; date de fin non précisée
-- **Montant** (historique) : environ 5 000 $ à 150 000 $ par projet, moyenne proche de 70 000 $
-- **Licence** : projet publié publiquement sous une licence reconnue par la FSF ou l'OSI
-- **Source** : [Mozilla Open Source Support](https://www.mozilla.org/moss)
