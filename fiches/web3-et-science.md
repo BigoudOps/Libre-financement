@@ -87,17 +87,17 @@ Subventions de fondations de protocoles (web3) et financements pour logiciels sc
 
 **Source** : [NumFOCUS — Small Development Grants](https://numfocus.org/programs/small-development-grants)
 
-## NSF — POSE
+## NSF — PESOSE (ex-POSE)
 
-- **Type** : subvention de recherche, programme « Pathways to Enable Open-Source Ecosystems » (NSF 24-606), en deux phases : phase I (cadrage et planification), phase II (création et expansion de l'écosystème)
+- **Type** : subvention de recherche, programme « Pathways to Enable Secure Open-Source Ecosystems » (NSF 26-506, qui remplace NSF 24-606 « Pathways to Enable Open-Source Ecosystems »), en trois volets : volet 1 (cadrage et planification d'un écosystème open source), volet 2 (création et expansion d'un écosystème durable autour d'un produit open source prometteur), volet 3 (sûreté, sécurité et protection de la vie privée d'un écosystème existant et de ses produits)
 - **Financeur** : National Science Foundation (États-Unis)
-- **Montant** : non précisé sur la page
-- **Licence** : aucune condition de licence nommée ; la page décrit les produits open source comme « publicly accessible, modifiable, and distributable »
-- **Éligibilité** : types de candidats non précisés. Phase I : produit de recherche open source avec une petite communauté d'utilisateurs externes. Phase II : petites communautés existantes d'utilisateurs et de contributeurs externes ; phase I non obligatoire.
-- **Candidature** : suivre la sollicitation et le guide NSF PAPPG en vigueur à la date limite ; contact pose@nsf.gov
+- **Montant** : volet 1 : jusqu'à 300 000 $ sur 1 an au plus (environ 30 subventions) ; volets 2 et 3 : jusqu'à 1 500 000 $ sur 2 ans au plus (environ 10 subventions chacun) ; 40 000 000 $ prévus pour 40 à 60 subventions, sous réserve des fonds disponibles
+- **Licence** : aucune licence nommée ni définition de l'open source ; la sollicitation décrit les outils open source comme « publicly-accessible and modifiable ». Le volet 1 prévoit d'établir des modèles de gouvernance et de licence ; pour le volet 2, l'évaluation vérifie que la proposition inclut « a clear, detailed licensing approach for the open-source product »
+- **Éligibilité** : organisations situées aux États-Unis : établissements d'enseignement supérieur accrédités ; organisations à but non lucratif non universitaires liées à l'enseignement ou à la recherche (musées indépendants, observatoires, laboratoires de recherche, sociétés savantes) ; entreprises (y compris petites entreprises) ; gouvernements d'États et locaux ; nations tribales. Les organisations à but non lucratif et les entreprises doivent être détenues et contrôlées majoritairement par des intérêts américains. Les personnes rattachées principalement à une organisation à but non lucratif ou une entreprise hors des États-Unis ne sont pas éligibles comme PI. Aucune limite au nombre de propositions par organisation ou par PI.
+- **Candidature** : suivre la sollicitation et le guide NSF PAPPG en vigueur à la date limite ; contact PESOSE@nsf.gov
 - **Exemples** : la page contient une section des projets financés ; contenu non relevé
 
-**Source** : [NSF — POSE](https://new.nsf.gov/funding/initiatives/pose)
+**Sources** : [NSF — PESOSE](https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems) ; [NSF 26-506 — sollicitation](https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems/nsf26-506/solicitation)
 
 ## Terminés
 

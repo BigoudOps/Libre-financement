@@ -34,7 +34,7 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Stellar Community Fund](fiches/web3-et-science.md#stellar-community-fund) | non précisée |
 | [Zcash Community Grants](fiches/web3-et-science.md#zcash-community-grants) | non précisée |
 | [Optimism Retro Funding](fiches/web3-et-science.md#optimism--retro-funding) | non précisée |
-| [NSF POSE](fiches/web3-et-science.md#nsf--pose) | aucune condition de licence nommée |
+| [NSF PESOSE](fiches/web3-et-science.md#nsf--pesose-ex-pose) | aucune licence nommée ; démarche de licence évaluée (volet 2) |
 | [NumFOCUS Small Development Grants](fiches/web3-et-science.md#numfocus--small-development-grants) | aucune condition mentionnée ; réservé aux projets sous parrainage fiscal ou affiliés NumFOCUS |
 
 ### Bourses et mentorat

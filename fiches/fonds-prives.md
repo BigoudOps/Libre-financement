@@ -42,13 +42,15 @@
 
 ## Open Technology Fund — FOSS Sustainability Fund
 
-- **Type** : subvention
-- **Objet** : maintenabilité, interopérabilité, reproductibilité, sécurité et résilience de l'écosystème technologique
-- **Montant, licence, éligibilité** : non indiqués sur la page de l'OTF
-- **Candidature** : lien « Apply for Support » sur apply.opentech.fund
-- **Autres fonds de l'OTF** : Internet Freedom Fund, Rapid Response Fund, Surge and Sustain Fund, Information Controls Research Program
+- **Type** : subvention (« Free and Open Source Software Sustainability Fund »)
+- **Objet** : maintenabilité à long terme, interopérabilité, reproductibilité, sécurité et résilience de l'écosystème des technologies de liberté sur Internet (« internet freedom technology ecosystem »)
+- **Montant** : 7 000 $ par mois pendant 6 à 24 mois pour un projet à mainteneur unique ; jusqu'à 400 000 $ sur 24 mois au plus pour des projets plus larges
+- **Licence** : non indiquée sur la page de l'OTF
+- **Éligibilité** : le projet démontre être une dépendance centrale des technologies de liberté sur Internet, ou, pour une application ou un outil destiné aux utilisateurs, une base substantielle d'utilisateurs actifs dans des contextes répressifs ; développement actif au cours des deux dernières années, avec des mises à jour régulières (souplesse possible pour relancer un projet dormant encore utilisé, ou pour une nouvelle bibliothèque qui améliore l'interopérabilité ou la durabilité d'outils existants) ; candidats (personnes ou organisations, à but lucratif ou non) âgés de 18 ans ou plus ; pas de soutien aux candidats situés dans des pays soumis à des restrictions commerciales ou à des sanctions à l'exportation des États-Unis
+- **Candidature** : note de concept (Concept Note) déposée via le système de candidature en ligne de l'OTF
+- **Autres fonds de l'OTF** : Internet Freedom Fund, Rapid Response Fund, Surge and Sustain Fund
 
-**Source** : [Open Technology Fund](https://www.opentech.fund/funds/foss-sustainability-fund/)
+**Source** : [Open Technology Fund](https://www.opentech.fund/funds/free-and-open-source-software-sustainability-fund/)
 
 ## Codex for Open Source (OpenAI)
 
