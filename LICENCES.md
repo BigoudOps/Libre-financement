@@ -28,6 +28,7 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Codex for Open Source](fiches/fonds-prives.md#codex-for-open-source-openai) | aucune condition mentionnée |
 | [Prototype Fund Suisse](fiches/fonds-prives.md#prototype-fund-suisse) | open source encouragé mais non obligatoire ; aucune licence nommée |
 | [Ethereum Foundation ESP](fiches/web3-et-science.md#ethereum-foundation--esp) | résultats open source ou librement disponibles |
+| [TeX Development Fund](fiches/fonds-prives.md#tex-development-fund-tug) | distribution conforme à la Free Software Definition (CTAN et TeX Live) |
 | [Filecoin Foundation Open Grants](fiches/web3-et-science.md#filecoin-foundation--open-grants) | double licence MIT et Apache 2.0 |
 | [Solana Foundation](fiches/web3-et-science.md#solana-foundation--subventions) | « open source in spirit », pas de licence nommée |
 | [Stellar Community Fund](fiches/web3-et-science.md#stellar-community-fund) | non précisée |
@@ -50,6 +51,7 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 |---|---|
 | [GitLab for Open Source](fiches/programmes-entreprises-et-bourses.md#gitlab-for-open-source) | licence approuvée par l'OSI |
 | [Docker-Sponsored Open Source](fiches/programmes-entreprises-et-bourses.md#docker-sponsored-open-source) | définition de l'OSI |
+| [HackerOne Community Edition](fiches/programmes-entreprises-et-bourses.md#hackerone-community-edition) | licence approuvée par l'OSI |
 | [Netlify Open Source](fiches/programmes-entreprises-et-bourses.md#netlify-open-source) | approuvée par l'OSI ou Creative Commons |
 | [AWS Open Source Credits](fiches/programmes-entreprises-et-bourses.md#aws-open-source-credits) | approuvée par l'OSI (article de 2019, à revérifier) |
 | [JetBrains Open Source](fiches/programmes-entreprises-et-bourses.md#jetbrains-open-source) | définition de l'open source (Open Source Definition), non commercial |

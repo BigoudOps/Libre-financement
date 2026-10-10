@@ -71,3 +71,16 @@
 - **Exemples** : non précisé (quatre rounds complétés au moment de la consultation)
 
 **Source** : [Prototype Fund Suisse — opendata.ch](https://prototypefund.opendata.ch/)
+
+
+## TeX Development Fund (TUG)
+
+- **Type** : subvention pour des projets techniques liés au système de composition TeX
+- **Financeur** : TeX Users Group (TUG)
+- **Montant** : montant demandé multiple de 100 $ (dollars américains). Le comité du fonds approuve les subventions jusqu'à 2 000 $ ; au-delà, l'accord du conseil du TUG est nécessaire. Minimum et maximum absolus : non précisés. Un financement supplémentaire est réservé aux travaux d'accessibilité, qui peuvent donner droit à des subventions plus élevées.
+- **Licence** : le travail terminé doit pouvoir être publié sur CTAN et dans TeX Live, avec des conditions de distribution conformes à la Free Software Definition et utilisables sur des systèmes d'exploitation libres
+- **Éligibilité** : individus, groupes et organisations ; le candidat est le bénéficiaire des fonds
+- **Durée** : un an idéalement, plus si nécessaire. Au-delà de six mois, un bilan intermédiaire informel est demandé ; un rapport final est vivement demandé.
+- **Candidature** : en continu, sans date limite ; réponse en général sous un mois après un dossier complet, si des fonds sont disponibles. Le formulaire demande le nom, un courriel, le montant demandé, la durée, une URL de projet facultative et une description du livrable final. Les candidatures restent privées ; les bénéficiaires, les montants et les descriptions des projets financés sont publiés.
+
+**Source** : [TeX Development Fund — candidature](https://www.tug.org/tc/devfund/application.html)

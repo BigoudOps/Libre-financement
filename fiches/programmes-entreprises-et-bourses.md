@@ -184,6 +184,18 @@ Les entrées sont classées par nature : bourses et mentorat rémunérés, prime
 
 **Sources** : [JetBrains — soutien aux projets open source](https://www.jetbrains.com/community/opensource/) ; [JetBrains — contrat d'abonnement Toolbox pour projets open source](https://www.jetbrains.com/legal/docs/toolbox/license_opensource/)
 
+## HackerOne Community Edition
+
+- **Type** : avantages en nature (programme de primes de sécurité gratuit pour projets open source)
+- **Financeur** : HackerOne
+- **Contenu** : une version de HackerOne Bounty gratuite pour les projets open source éligibles : page de sécurité, réputation des chercheurs, invitations privées, discussions, API, analyses, détection de doublons, hébergement en SaaS sans déploiement. Support limité à l'aide de base à la configuration. Les primes aux chercheurs sont payées par le projet, par prépaiement ou carte bancaire, et restent facultatives. Frais de traitement des paiements de 5 % indiqués pour les primes en argent, « greatly reduced » pour les programmes Community Edition, taux réduit non précisé.
+- **Licence** : « Projects in scope must only be Open Source projects that are covered by an OSI license »
+- **Éligibilité** : projet actif et vieux d'au moins 3 mois (versions publiées ou contributions de code) ; fichier SECURITY.md à la racine du projet ; lien vers le profil HackerOne dans la navigation du site ; réponse initiale aux nouveaux rapports en moins d'une semaine. La FAQ précise que l'approbation dépend de projets réellement open source et non commerciaux, et que l'offre peut être révoquée si ces conditions ne sont plus remplies.
+- **Candidature** : formulaire « Apply now » (nom et site du projet, motifs de la demande) ; examen en général sous une semaine ouvrée ; décision finale à la discrétion de HackerOne
+- **Non précisé** : plafond des primes, nombre de rapports ou d'utilisateurs autorisés
+
+**Source** : [HackerOne — Community Edition pour l'open source](https://www.hackerone.com/company/internet-bug-bounty)
+
 ## Terminés
 
 ### Google Season of Docs
