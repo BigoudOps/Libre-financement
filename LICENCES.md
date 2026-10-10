@@ -19,6 +19,8 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Sovereign Tech Fellowship](fiches/subventions-publiques.md#sovereign-tech-fellowship) | OSI ou FSF Free/Libre |
 | [Sovereign Tech Standards](fiches/subventions-publiques.md#sovereign-tech-standards) | aucune condition mentionnée |
 | [Prototype Fund](fiches/subventions-publiques.md#prototype-fund) | licence open source, code public ; licence précise non précisée |
+| [NLnet — Fonds Restack](fiches/subventions-publiques.md#fonds-restack) | non précisée |
+| [NLnet — Fonds CodeSupply](fiches/subventions-publiques.md#fonds-codesupply) | non précisée |
 | [GitHub Secure Open Source Fund](fiches/fonds-prives.md#github-secure-open-source-fund) | licence open source claire |
 | [Alpha-Omega](fiches/fonds-prives.md#alpha-omega) | approuvée par l'OSI, à prouver dans la proposition |
 | [FLOSS/fund](fiches/fonds-prives.md#flossfund-zerodha) | non précisée, vise des projets FLOSS |
