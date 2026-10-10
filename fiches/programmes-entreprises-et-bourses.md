@@ -173,15 +173,16 @@ Les entrées sont classées par nature : bourses et mentorat rémunérés, prime
 
 ## JetBrains Open Source
 
-- **Type** : avantages en nature (licences d'outils)
-- **Financeur** : JetBrains (« professional developer tools free of charge »)
-- **Contenu** : abonnement Toolbox pour projets open source ; chaque octroi couvre un an, renouvelable pour un an sur approbation de JetBrains à sa seule discrétion (contrat, art. 3.2 et 5.1)
-- **Licence** : le contrat limite l'usage à des « non-commercial open source projects that meet the Open Source Definition »
-- **Éligibilité** : le titulaire est le groupe de développement open source nommé dans la confirmation d'abonnement ; chaque abonnement est attribué à un utilisateur autorisé et ne peut être partagé simultanément ; tout usage commercial est interdit. Autres critères (activité du projet, etc.) non précisés sur les pages consultées.
-- **Candidature** : non précisée (le formulaire de demande n'a pas pu être lu)
-- **Exemples** : non précisé
+- **Type** : avantages en nature (licences d'outils), en deux niveaux
+- **Financeur** : JetBrains
+- **Contenu, niveau 1 (projets non commerciaux)** : IDE JetBrains gratuits pour contribuer à un projet open source non commercial ou à une petite initiative en début de parcours. La page précise que ces abonnements non commerciaux donnent un accès complet aux IDE pour le développement open source personnel et non commercial.
+- **Contenu, niveau 2 (projets établis)** : abonnements « All Products Pack » offerts, qui regroupent tous les IDE JetBrains, pour des projets open source qui jouent un rôle actif dans l'écosystème des développeurs
+- **Licence** : non précisée sur la page de présentation. Le contrat d'abonnement Toolbox pour projets open source limite l'usage à des « non-commercial open source projects that meet the Open Source Definition ».
+- **Éligibilité** : niveau 1, contributeurs individuels et petits projets, non commerciaux. Niveau 2, mainteneurs de projets établis avec un cycle de développement actif et un large impact sur la communauté des développeurs. Le contrat précise que chaque abonnement est attribué à un utilisateur autorisé, sans partage simultané, et que tout usage commercial est interdit.
+- **Candidature** : niveau 1, aucune candidature ni approbation, il suffit de télécharger l'IDE. Niveau 2, formulaire « Tell us about your project » ; chaque demande est examinée individuellement. Durée de l'octroi : un an renouvelable sur approbation, selon le contrat d'abonnement.
+- **Exemples** : la page cite des partenariats avec, entre autres, la PHP Foundation, la Kotlin Foundation, la Rust Foundation, la Django Software Foundation, la Python Software Foundation, l'Apache Software Foundation, Vite, pnpm, Prettier, ESLint et htmx
 
-**Sources** : [JetBrains — licences pour le développement open source](https://www.jetbrains.com/community/opensource/) ; [JetBrains — contrat d'abonnement Toolbox pour projets open source](https://www.jetbrains.com/legal/docs/toolbox/license_opensource/)
+**Sources** : [JetBrains — soutien aux projets open source](https://www.jetbrains.com/community/opensource/) ; [JetBrains — contrat d'abonnement Toolbox pour projets open source](https://www.jetbrains.com/legal/docs/toolbox/license_opensource/)
 
 ## Terminés
 
