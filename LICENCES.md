@@ -81,7 +81,7 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 |---|---|
 | [Open Collective](fiches/plateformes.md#open-collective) | aucune condition mentionnée |
 | [Liberapay](fiches/plateformes.md#liberapay) | aucune condition mentionnée |
-| [Tidelift](fiches/plateformes.md#tidelift) | la licence doit être documentée dans le dépôt et les métadonnées |
+| [Tidelift](fiches/plateformes.md#tidelift) | documenter clairement le type de licence du paquet ; licences acceptées non précisées |
 | [Algora](fiches/programmes-entreprises-et-bourses.md#algora) | aucune condition mentionnée |
 | [StackAid](fiches/programmes-entreprises-et-bourses.md#stackaid) | aucune condition mentionnée |
 | [Patreon](fiches/programmes-entreprises-et-bourses.md#patreon) | aucune condition mentionnée |

@@ -21,14 +21,14 @@
 
 ## Tidelift
 
-- **Principe** : Tidelift analyse la pile de chaque client abonné, identifie ses dépendances et répartit l'abonnement entre les mainteneurs des paquets réellement utilisés. Revenus calculés chaque mois selon l'usage, versés aux mainteneurs qui ont accepté de participer. L'estimation concerne l'ensemble du projet ; les co-mainteneurs doivent en discuter ensemble.
-- **Pour participer** : revendiquer son paquet, signer un accord juridique et un code de conduite. Retrait possible avec 30 jours de préavis.
-- **Engagements demandés** : vérifier la licence et la documenter dans le dépôt et les métadonnées ; fournir une correspondance de versions ; signaler les vulnérabilités avec divulgation responsable ; activer l'authentification à deux facteurs si possible ; indiquer les versions stables, LTS ou obsolètes ; rédiger des notes de version ; mentionner l'abonnement Tidelift sur le site et dans le README.
-- **Ce que Tidelift dit ne pas demander** : support technique, conseil, ni contrôle de la feuille de route
-- **Écosystèmes** : JavaScript, Ruby et .NET cités, parmi « des dizaines »
-- **Licences acceptées** : non précisées
+- **Principe** : Tidelift, qui fait désormais partie de Sonar, paie les mainteneurs (« lifters ») dont les paquets respectent un ensemble documenté de standards. Le revenu dépend de plusieurs facteurs, dont l'usage par les abonnés (calculé d'après les SBOM que les clients téléversent) et un poids fondé principalement sur la taille du code, avec des ajustements.
+- **Paiement** : l'usage et le statut de lifter sont relevés le dernier jour ouvré du mois ; les paiements partent le troisième jour ouvré du mois suivant, vers un portefeuille Hyperwallet. Tidelift peut payer des personnes comme des organisations, à but lucratif ou non, dès lors qu'un accord signé existe. Avec plusieurs co-mainteneurs, le premier mainteneur reçoit par défaut tous les revenus ; chaque co-mainteneur doit signer l'accord. Les paiements vers des pays ou banques sous sanctions sont bloqués.
+- **Tâches demandées** : activer l'authentification à deux facteurs sur GitHub et sur le gestionnaire de paquets ; documenter clairement le type de licence du paquet ; documenter une politique de sécurité et un plan de maintenance de sécurité, fournir un retour sur les vulnérabilités et créer une version corrective ; renseigner l'URL du dépôt et le schéma de versions ; vérifier que seules des personnes autorisées gèrent les publications. Les standards peuvent évoluer.
+- **Ce que Tidelift dit ne pas demander** : support technique ou conseil, abandon du contrôle de la feuille de route, changement du type de licence
+- **Retrait** : « vous pouvez arrêter de lifter un paquet à tout moment » (page de support Tidelift)
+- **Non précisé sur les pages** : écosystèmes pris en charge, montant minimum de versement, montants versés par paquet, licences acceptées
 
-**Source** : [Tidelift — devenir lifter](https://tidelift.com/about/lifter)
+**Sources** : [Sonar — mainteneurs open source (Tidelift)](https://www.sonarsource.com/open-source-maintainers/) ; [Tidelift — comment les lifters sont payés](https://support.tidelift.com/hc/en-us/articles/4406294816916-How-we-pay-lifters) ; [Tidelift — tâches des lifters](https://support.tidelift.com/hc/en-us/articles/4406288074260-Lifter-tasks-overview)
 
 
 ## funding.json
