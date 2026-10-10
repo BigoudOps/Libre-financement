@@ -118,6 +118,19 @@ Cette fiche couvre les structures qui hébergent juridiquement et financièremen
 
 **Sources** : [OpenJS — projets](https://openjsf.org/projects) ; [OpenJS — progression des projets](https://github.com/openjs-foundation/cross-project-council/blob/main/PROJECT_PROGRESSION.md)
 
+## Rust Foundation Maintainers Fund
+
+- **Type** : fonds de dons d'un projet, qui finance des mainteneurs de façon stable
+- **Structure** : Rust Foundation, avec l'équipe Funding du projet Rust qui communique avec les équipes et les sponsors
+- **Fonctionnement** : le fonds collecte des dons pour fournir un financement stable aux contributeurs qui maintiennent des zones critiques de la chaîne d'outils Rust. L'équipe Funding sélectionne les « Maintainers in Residence » financés.
+- **Montant** : non précisé sur la page
+- **Licence** : non précisée
+- **Éligibilité** : contributeurs du projet Rust, choisis par l'équipe Funding ; aucune procédure de candidature décrite sur la page
+- **Candidature** : non précisée. Les dons passent par GitHub Sponsors de la Rust Foundation.
+- **À côté du fonds** : la page liste des contributeurs du projet Rust qui ont leur propre compte GitHub Sponsors
+
+**Source** : [Rust — financement](https://rust-lang.org/funding/)
+
 ## Terminés
 
 ### Open Collective Foundation
