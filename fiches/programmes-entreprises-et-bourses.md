@@ -38,19 +38,6 @@ Les entrées sont classées par nature : bourses et mentorat rémunérés, plate
 
 **Sources** : [LFX — mentorat, présentation](https://docs.linuxfoundation.org/lfx/mentorship) ; [LFX — guide du mentoré](https://docs.linuxfoundation.org/lfx/mentorship/mentee-guide) ; [LFX — bourses](https://docs.linuxfoundation.org/lfx/mentorship/mentee-stipends.md) ; [LFX — inscrire un projet](https://docs.linuxfoundation.org/lfx/mentorship/administrators/enroll-your-program.md)
 
-## StackAid
-
-- **Type** : plateforme de dons par abonnement, répartis entre les dépendances open source du donateur
-- **Financeur** : les abonnés
-- **Montant** : abonnements à partir de 15 $ par mois. StackAid se compte comme dépendance implicite avec une part plafonnée à 7,5 % (soit 1,50 $ sur l'exemple à 20 $ par mois).
-- **Licence** : aucune condition mentionnée
-- **Éligibilité** : « open source projects » en général ; pas de critères détaillés
-- **Candidature** : revendiquer ses dépôts en installant l'application GitHub de StackAid, puis associer un ou plusieurs comptes Stripe à chaque dépôt. Répartition égale entre les comptes liés, une fois par mois. Pour les projets non inscrits, StackAid tente de payer via GitHub, Open Collective, Patreon, etc. ; les fonds non réclamés s'accumulent deux mois avant réallocation, mais la page indique que la réallocation est suspendue pendant la bêta.
-- **Statut** : la page parle d'une période bêta
-- **Exemples** : non précisé
-
-**Source** : [StackAid](https://stackaid.us)
-
 ## Patreon
 
 - **Type** : abonnements mensuels de soutiens à un créateur (paiement en argent)

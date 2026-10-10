@@ -35,6 +35,9 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Zcash Community Grants](fiches/web3-et-science.md#zcash-community-grants) | non précisée |
 | [NSF PESOSE](fiches/web3-et-science.md#nsf--pesose-ex-pose) | aucune licence nommée ; démarche de licence évaluée (volet 2) |
 | [NumFOCUS Small Development Grants](fiches/web3-et-science.md#numfocus--small-development-grants) | aucune condition mentionnée ; réservé aux projets sous parrainage fiscal ou affiliés NumFOCUS |
+| [Rust Foundation Maintainers Fund](fiches/fondations-et-parrainage-fiscal.md#rust-foundation-maintainers-fund) | non précisée |
+| [KDE e.V. (sprints)](fiches/communautes-et-distributions.md#kde-ev--soutien-aux-sprints) | non précisée |
+| [GNOME Fellowship](fiches/communautes-et-distributions.md#gnome-fellowship) | non précisée |
 
 ### Bourses et mentorat
 
@@ -81,7 +84,8 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Open Collective](fiches/plateformes.md#open-collective) | aucune condition mentionnée |
 | [Liberapay](fiches/plateformes.md#liberapay) | aucune condition mentionnée |
 | [Tidelift](fiches/plateformes.md#tidelift) | documenter clairement le type de licence du paquet ; licences acceptées non précisées |
-| [StackAid](fiches/programmes-entreprises-et-bourses.md#stackaid) | aucune condition mentionnée |
+| [Kickstarter](fiches/plateformes.md#kickstarter) | aucune condition mentionnée |
+| [Ulule](fiches/plateformes.md#ulule) | aucune condition mentionnée |
 | [Patreon](fiches/programmes-entreprises-et-bourses.md#patreon) | aucune condition mentionnée |
 | [Open Source Pledge](fiches/entreprises.md#open-source-pledge) | sans objet : engagement d'entreprises |
 | [thanks.dev](fiches/entreprises.md#thanksdev) | sans objet : il faut être une dépendance GitHub d'une entreprise cliente |
@@ -99,7 +103,8 @@ Les programmes qui exigent une licence libre, open source ou approuvée par l'OS
 | [Codex for Open Source](fiches/fonds-prives.md#codex-for-open-source-openai) | vise un projet public largement utilisé |
 | [Open Collective](fiches/plateformes.md#open-collective) | aucune condition mentionnée |
 | [Liberapay](fiches/plateformes.md#liberapay) | aucune condition mentionnée |
-| [StackAid](fiches/programmes-entreprises-et-bourses.md#stackaid) | aucune condition mentionnée |
+| [Kickstarter](fiches/plateformes.md#kickstarter) | aucune condition mentionnée |
+| [Ulule](fiches/plateformes.md#ulule) | aucune condition mentionnée |
 | [Patreon](fiches/programmes-entreprises-et-bourses.md#patreon) | aucune condition mentionnée |
 
 ## Modèles de licence qui financent
