@@ -35,9 +35,10 @@
 - **Candidature** : formulaire d'intake (« Grant Submission Form ») ; seules les demandes passant par le formulaire sont examinées. Si le projet correspond : consultation de sécurité, puis proposition et Statement of Work rédigés avec l'équipe.
 - **Cycles** : quatre par an. Soumission pendant un mois (janvier, avril, juillet, octobre), revue le mois suivant, décision et versement le mois d'après.
 - **Obligations** : rapports mensuels publics, tables rondes mensuelles avec les autres projets financés, trois articles de blog (début, milieu, fin). Le financement futur dépend de progrès significatifs.
+- **Financement annoncé en 2026** : le 17 mars 2026, la Linux Foundation annonce 12,5 M$ de subventions de la part d'Anthropic, d'AWS, de GitHub, de Google, de Google DeepMind, de Microsoft et d'OpenAI, gérés par Alpha-Omega et l'OpenSSF pour fournir des outils de sécurité aux mainteneurs. Seule la part d'AWS est chiffrée (2,5 M$ supplémentaires pour Alpha-Omega). Procédure de candidature et conditions : non précisées dans l'annonce.
 - **Exemples** (subventions 2025) : Eclipse Foundation 800 000 $, Ruby Central 700 000 $, Rust Foundation 695 150 $, OpenJS 580 000 $, Trail of Bits 178 000 $
 
-**Sources** : [Alpha-Omega — comment candidater](https://alpha-omega.dev) ; [Alpha-Omega — bénéficiaires](https://alpha-omega.dev/grants/grantrecipients/)
+**Sources** : [Alpha-Omega — comment candidater](https://alpha-omega.dev) ; [Alpha-Omega — bénéficiaires](https://alpha-omega.dev/grants/grantrecipients/) ; [OpenSSF — annonce du 17 mars 2026](https://openssf.org/press-release/2026/03/17/linux-foundation-announces-12-5-million-in-grant-funding-from-leading-organizations-to-advance-open-source-security/)
 
 ## Open Technology Fund — FOSS Sustainability Fund
 
