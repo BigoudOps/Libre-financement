@@ -46,3 +46,26 @@ Programmes terminés ou ponctuels. Ils ne se redéposent plus, mais montrent ce 
 - **Fin** : hiatus indéfini depuis la restructuration de Mozilla de 2020 ; candidatures suspendues
 
 **Source** : [Mozilla MOSS](https://www.mozilla.org/en-US/moss/)
+
+
+## Mozilla Builders Accelerator, édition 2024
+
+- **Montant** : jusqu'à 100 000 $ de financement sans dilution et un programme de 12 semaines
+- **Thème de l'édition** : IA locale open source
+- **Licence** : « a clear open source license » exigée
+- **Éligibilité** : « open to individuals, teams, or organizations » ; employés d'une entreprise et étudiants considérés selon la FAQ. Engagement à temps plein et présence au lancement et au Demo Day en personne.
+- **Candidature** : examen au fil de l'eau, entretien pour les candidatures retenues ; dernière date limite indiquée par la page : 1er août 2024 (deux dates anticipées contradictoires sur la même page)
+- **Suite** : la page décrit aussi des « collaborations » de co-développement et de sponsoring sur mesure, sans montant ni conditions
+
+**Source** : [Mozilla Builders — programmes](https://builders.mozilla.org/programs/)
+
+## Digital Square, Notice G (2022)
+
+- **Type** : appel pour faire reconnaître des outils de santé numérique comme « global goods » approuvés, avec un financement pour certains candidats
+- **Montant** : prix fixe jusqu'à 25 000 $ et assistance technique de Digital Square pour certains candidats retenus ; crédits d'hébergement AWS d'un an et fonds de voyage limités, montants non précisés
+- **Licence** : selon le tour. Logiciels (G0) : « free and open source ». Contenus (G1) : sous licence ouverte. Logiciels en service (G2) : librement accessibles, principes de données ouvertes.
+- **Éligibilité** : les global goods déjà approuvés sont invités à postuler pour être réévalués ; de nouvelles équipes et de nouveaux outils peuvent aussi candidater. Candidatures en anglais.
+- **Calendrier** : premier tour lancé le 29 août 2022, tours G1 en novembre 2022 et G2 en décembre 2022 ; deux dates limites pour G0 (30 septembre et 14 octobre 2022), sans précision sur leur rôle
+
+**Source** : [Digital Square — Notice G (29 août 2022)](https://digitalsquare.org/blog/2022/8/29/digital-square-launches-a-global-call-for-applications-to-identify-and-promote-digital-health-technologies-generating-impact-at-scale)
+

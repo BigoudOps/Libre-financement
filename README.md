@@ -17,7 +17,7 @@ Toutes les informations ont été relevées sur les pages officielles des progra
 - [Modèles économiques](fiches/modeles-economiques.md) : Fair Source, double licence, open core
 - [Services payants](fiches/services-payants.md) : Nextcloud, Plausible, Ghost, Discourse, Home Assistant, Castopod, ZAP, MISP
 - [France](fiches/france.md) : micro-entrepreneur, CAE, association, fonds de dotation, Acre, Arce, Adie
-- [Historique](fiches/historique.md) : NGI Zero Commons Fund, Prix BlueHats, Sovereign Tech Challenge, NGI Fediversity, MOSS
+- [Historique](fiches/historique.md) : NGI Zero Commons Fund, Prix BlueHats, Sovereign Tech Challenge, NGI Fediversity, MOSS, Mozilla Builders Accelerator (2024), Digital Square Notice G (2022)
 
 ## Par licence
 
