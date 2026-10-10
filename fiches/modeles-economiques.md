@@ -7,10 +7,10 @@ Le code est publié et la licence limite la concurrence directe, puis il devient
 - **FSL** (Functional Source License) : licence de non-concurrence simple, conversion en open source après deux ans. C'est la licence phare recommandée par fair.io.
 - **FCL** (Fair Core License) : variante du FSL avec prise en charge des clés de licence, à envisager pour monétiser du logiciel auto-hébergé avec des fonctions commerciales.
 - **BUSL** (Business Source License) : licence de non-concurrence plus complexe, conversion généralement après quatre ans.
-- **Pas de l'open source au sens de l'OSI** : Sourcebot l'écrit explicitement après son passage de MIT à FSL, son cœur n'est plus sous licence open source approuvée par l'OSI.
+- **Pas de l'open source au sens de l'OSI** : Sourcebot l'écrit explicitement après son passage de MIT à FSL (version 4.5.3, 20 juillet 2025), son cœur n'est plus sous licence open source approuvée par l'OSI.
 - **Exemples** : Sourcebot (conversion en Apache 2.0 après deux ans) ; Keygen (FCL, conversion vers Apache 2.0 ou MIT après deux ans, selon son annonce)
 
-**Sources** : [Fair Source — licences](https://fair.io/licenses/) ; [Sourcebot — passage à Fair Source](https://sourcebot.dev/blog/fair-source) ; [Keygen — passage au FCL](https://keygen.sh/blog/keygen-is-now-fair-source/)
+**Sources** : [Fair Source — licences](https://fair.io/licenses/) ; [Sourcebot — passage à Fair Source (archive)](https://web.archive.org/web/20260402013758/https://sourcebot.dev/blog/fair-source) ; [Keygen — passage au FCL](https://keygen.sh/blog/keygen-is-now-fair-source/)
 
 ## Double licence
 

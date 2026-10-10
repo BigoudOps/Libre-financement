@@ -33,7 +33,6 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Solana Foundation](fiches/web3-et-science.md#solana-foundation--subventions) | « open source in spirit », pas de licence nommée |
 | [Stellar Community Fund](fiches/web3-et-science.md#stellar-community-fund) | non précisée |
 | [Zcash Community Grants](fiches/web3-et-science.md#zcash-community-grants) | non précisée |
-| [Optimism Retro Funding](fiches/web3-et-science.md#optimism--retro-funding) | non précisée |
 | [NSF PESOSE](fiches/web3-et-science.md#nsf--pesose-ex-pose) | aucune licence nommée ; démarche de licence évaluée (volet 2) |
 | [NumFOCUS Small Development Grants](fiches/web3-et-science.md#numfocus--small-development-grants) | aucune condition mentionnée ; réservé aux projets sous parrainage fiscal ou affiliés NumFOCUS |
 
@@ -75,14 +74,13 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Linux Foundation](fiches/fondations-et-parrainage-fiscal.md#linux-foundation-hébergement-de-projets) | aucune licence nommée |
 | [Apache Software Foundation](fiches/fondations-et-parrainage-fiscal.md#apache-software-foundation-incubateur) | non précisée ; licence Apache via l'accord de contribution |
 
-### Plateformes, primes et entreprises
+### Plateformes et entreprises
 
 | Programme | Ce que dit la page sur la licence |
 |---|---|
 | [Open Collective](fiches/plateformes.md#open-collective) | aucune condition mentionnée |
 | [Liberapay](fiches/plateformes.md#liberapay) | aucune condition mentionnée |
 | [Tidelift](fiches/plateformes.md#tidelift) | documenter clairement le type de licence du paquet ; licences acceptées non précisées |
-| [Algora](fiches/programmes-entreprises-et-bourses.md#algora) | aucune condition mentionnée |
 | [StackAid](fiches/programmes-entreprises-et-bourses.md#stackaid) | aucune condition mentionnée |
 | [Patreon](fiches/programmes-entreprises-et-bourses.md#patreon) | aucune condition mentionnée |
 | [Open Source Pledge](fiches/entreprises.md#open-source-pledge) | sans objet : engagement d'entreprises |
@@ -101,7 +99,6 @@ Les programmes qui exigent une licence libre, open source ou approuvée par l'OS
 | [Codex for Open Source](fiches/fonds-prives.md#codex-for-open-source-openai) | vise un projet public largement utilisé |
 | [Open Collective](fiches/plateformes.md#open-collective) | aucune condition mentionnée |
 | [Liberapay](fiches/plateformes.md#liberapay) | aucune condition mentionnée |
-| [Algora](fiches/programmes-entreprises-et-bourses.md#algora) | aucune condition mentionnée |
 | [StackAid](fiches/programmes-entreprises-et-bourses.md#stackaid) | aucune condition mentionnée |
 | [Patreon](fiches/programmes-entreprises-et-bourses.md#patreon) | aucune condition mentionnée |
 

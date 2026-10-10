@@ -1,6 +1,6 @@
 # Programmes d'entreprises et bourses
 
-Les entrées sont classées par nature : bourses et mentorat rémunérés, primes, plateformes, puis avantages en nature (crédits, licences, abonnements). Les avantages en nature ne sont pas des paiements en argent.
+Les entrées sont classées par nature : bourses et mentorat rémunérés, plateformes, puis avantages en nature (crédits, licences, abonnements). Les avantages en nature ne sont pas des paiements en argent.
 
 ## Google Summer of Code
 
@@ -37,18 +37,6 @@ Les entrées sont classées par nature : bourses et mentorat rémunérés, prime
 - **Exemples** : non précisé
 
 **Sources** : [LFX — mentorat, présentation](https://docs.linuxfoundation.org/lfx/mentorship) ; [LFX — guide du mentoré](https://docs.linuxfoundation.org/lfx/mentorship/mentee-guide) ; [LFX — bourses](https://docs.linuxfoundation.org/lfx/mentorship/mentee-stipends.md) ; [LFX — inscrire un projet](https://docs.linuxfoundation.org/lfx/mentorship/administrators/enroll-your-program.md)
-
-## Algora
-
-- **Type** : primes (bounties) sur des tickets GitHub, payées en argent
-- **Financeur** : le commanditaire de la prime (individu, communauté open source ou entreprise)
-- **Montant** : primes en dollars américains sur des tickets, payées à la fusion. Frais de service de 9 % indiqués dans la section « Pay developers » de la page de tarifs ; la page ne dit pas si ces frais s'ajoutent à la prime ou en sont déduits. Versement par virement bancaire, 120 pays et régions.
-- **Licence** : aucune condition mentionnée
-- **Éligibilité** : la page de tarifs cite « individuals, OSS communities, and open/closed source companies » ; autres conditions non précisées
-- **Candidature** : non précisée sur les pages consultées
-- **Exemples** : la page d'accueil liste des pages de primes pour Turso, Golem Cloud, TSPerf et Prettier
-
-**Sources** : [Algora — tarifs](https://app.algora.io/pricing) ; [Algora](https://algora.io/)
 
 ## StackAid
 

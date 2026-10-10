@@ -63,18 +63,6 @@ Subventions de fondations de protocoles (web3) et financements pour logiciels sc
 
 **Source** : [Solana — grants et financements](https://solana.org/grants-funding)
 
-## Optimism — Retro Funding
-
-- **Type** : financement rétroactif de contributions, par rondes thématiques
-- **Financeur** : Optimism Collective ; récompenses réparties par la Citizens' House
-- **Montant** : versé en OP ; 40 000 000 OP distribués depuis 2022 selon la page
-- **Licence** : non précisée
-- **Éligibilité** : critères formels non précisés ; chaque ronde cible un type de contribution : ronde 5 (OP Stack, août 2024), ronde 6 (gouvernance, septembre 2024), ronde 7 (outils de développement tels que SDK et frameworks de test, octobre 2024)
-- **Candidature** : créer un profil Optimist, y ajouter ses projets, puis candidater à Retro Funding depuis le profil
-- **Exemples** : non précisés
-
-**Source** : [Optimism — Retro Funding](https://retrofunding.optimism.io/)
-
 ## NumFOCUS — Small Development Grants
 
 - **Type** : microsubvention
