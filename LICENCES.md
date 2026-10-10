@@ -111,4 +111,4 @@ Les programmes qui exigent une licence libre, open source ou approuvée par l'OS
 
 ## Indépendant de la licence
 
-Les statuts pour être payé en France ([micro-entrepreneur, CAE, association, fonds de dotation](fiches/france.md)) ne dépendent pas de la licence du projet.
+Les statuts pour être payé en France ([micro-entrepreneur, CAE, association, fonds de dotation, Acre, Arce, Adie](fiches/france.md)) ne dépendent pas de la licence du projet.

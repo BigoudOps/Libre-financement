@@ -42,3 +42,40 @@ Statuts et fiscalité pour être payé en France, à titre individuel ou en asso
 - **Régime fiscal des dons** : non précisé sur la page
 
 **Source** : [Service-public — fonds de dotation](https://www.service-public.gouv.fr/particuliers/vosdroits/F24469)
+
+
+## Aides à la création d'activité
+
+### Acre (exonération de cotisations)
+
+- **Principe** : exonération temporaire de cotisations sociales en début d'activité
+- **Micro-entrepreneur** : taux de cotisations réduit à 75 % du taux normal, soit 25 % d'exonération (exemple de la page : 21,2 % devient 15,9 %). L'exonération court jusqu'à la fin du troisième trimestre civil suivant le début d'activité déclaré ; la page conseille de démarrer en début de trimestre civil.
+- **Autres créateurs** (entreprise individuelle hors micro, sociétés) : exonération partielle de cotisations personnelles pendant 12 mois. Revenu professionnel annuel jusqu'à 36 045 € : 25 % ; entre 36 045 € et 48 060 € : exonération dégressive, formule non précisée ; à partir de 48 060 € : non applicable.
+- **Éligibilité** : une des situations suivantes : bénéficiaire de l'ARE ou de l'ASP après un licenciement économique ; demandeur d'emploi non indemnisé inscrit depuis plus de 6 mois sur les 18 derniers mois ; bénéficiaire du RSA ou de l'ASS ; âgé de 18 à 25 ans (29 ans si reconnu handicapé) ; moins de 30 ans sans ARE ; titulaire d'un CAPE ; création ou reprise en quartier prioritaire de la politique de la ville ou en zone de revitalisation rurale ; bénéficiaire de la PreParE. Condition commune : ne pas avoir bénéficié de l'Acre au cours des 3 années précédentes.
+- **Démarche** : depuis le 1er janvier 2026, l'Acre n'est plus automatique. Demande à l'Urssaf dans les 60 jours suivant le début d'activité, avec le justificatif de début d'activité. L'Urssaf répond sous 30 jours ; sans réponse, l'Acre est considérée comme accordée.
+- **Non précisé sur la page** : plafonds de revenus propres au micro-entrepreneur
+
+**Sources** : [Service-public — Acre](https://entreprendre.service-public.gouv.fr/vosdroits/F11677) (vérifiée le 1er juillet 2026) ; [Urssaf — Acre](https://www.urssaf.fr/accueil/exoneration-acre-createur.html)
+
+### Arce (aide au retour à l'emploi sous forme de capital)
+
+- **Principe** : aide financière versée par France Travail aux créateurs ou repreneurs d'entreprise, qui consiste à recevoir une partie de ses allocations chômage sous forme de capital
+- **Conditions** : avoir créé ou repris une entreprise en France après la fin du contrat de travail ; bénéficier de l'ARE ; bénéficier de l'Acre
+- **Montant** : 60 % des droits à l'ARE restant à verser, après déduction de la participation de 3 % au financement des retraites complémentaires
+- **Versement** : en deux fois. La moitié au démarrage de l'activité, le reste 6 mois après le premier paiement, à condition de démontrer que l'activité non salariée existe toujours et de ne pas exercer un emploi en CDI à temps plein.
+- **Choix** : cumuler ses revenus non salariés avec une partie de l'ARE, ou opter pour l'Arce. L'Arce ne permet pas de valider des trimestres de retraite de base, contrairement au maintien de l'ARE.
+- **Si l'activité cesse après le 2e versement** : reprise possible de l'ARE sur les 40 % de droits restants, après un différé égal au nombre d'allocations perçues lors du 2e versement
+- **Démarche** : demande auprès de France Travail avec l'attestation de création ou de reprise dans le cadre de l'Acre. Délai de dépôt : non précisé.
+
+**Source** : [Service-public — Arce](https://www.service-public.gouv.fr/particuliers/vosdroits/F15252) (vérifiée le 13 août 2026)
+
+### Adie (microcrédit)
+
+- **Principe** : association de microcrédit et d'accompagnement, active en France depuis 1989
+- **Montant** : les pages de l'Adie ne concordent pas. La page « Le micro crédit expliqué » indique un financement jusqu'à 15 000 €, la page « Créer ma boîte, étape 3 » indique un microcrédit jusqu'à 12 000 €. Se référer à l'agence Adie pour le montant en vigueur.
+- **Condition** : ne pas être éligible à un crédit bancaire classique (page « étape 3 »)
+- **Prêt d'honneur** : jusqu'à 3 000 €, sans intérêts, avec possibilité de remboursement différé ; conditions d'éligibilité non précisées
+- **Demande** : rendez-vous par chat ou téléphone dans l'une des 200 agences de l'Adie
+- **Non précisé sur les pages lues** : durée de remboursement, taux et frais
+
+**Sources** : [Adie — le micro crédit expliqué](https://www.adie.org/fiches-pratiques/le-micro-credit/) ; [Adie — créer ma boîte, étape 3](https://www.adie.org/fiches-pratiques/creer-ma-boite-en-4-etapes-etape-3-le-financement/)

@@ -14,7 +14,7 @@ Toutes les informations ont été relevées sur les pages officielles des progra
 - [Entreprises](fiches/entreprises.md) : Open Source Pledge, thanks.dev
 - [Plateformes](fiches/plateformes.md) : Open Collective, Liberapay, Tidelift
 - [Modèles économiques](fiches/modeles-economiques.md) : Fair Source, double licence, open core
-- [France](fiches/france.md) : micro-entrepreneur, CAE, association, fonds de dotation
+- [France](fiches/france.md) : micro-entrepreneur, CAE, association, fonds de dotation, Acre, Arce, Adie
 - [Historique](fiches/historique.md) : NGI Zero Commons Fund, Prix BlueHats, Sovereign Tech Challenge, NGI Fediversity, MOSS
 
 ## Par licence
