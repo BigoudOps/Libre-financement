@@ -70,7 +70,7 @@ Ce fichier ajoute un bouton de soutien à un dépôt GitHub. Il n'est utile que 
 - **Non précisé sur la page lue** : les pays d'où l'on peut lancer un projet, les conditions propres aux projets open source
 - **Licence** : aucune condition mentionnée
 
-**Source** : [Kickstarter — frais](https://help.kickstarter.com/hc/en-us/articles/115005028634-What-are-the-fees)
+**Source** : [Kickstarter — frais](https://help.kickstarter.com/en-us/articles/16236674-what-are-the-fees)
 
 ## Ulule
 

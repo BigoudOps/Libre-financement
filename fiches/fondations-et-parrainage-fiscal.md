@@ -12,7 +12,7 @@ Cette fiche couvre les structures qui hébergent juridiquement et financièremen
 - **Services** : comptabilité, impôts, factures, contrats, emploi ; gestion de compte bancaire, déclarations fiscales 990 automatisées, gestion de subventions, détention de marques. OSC indique héberger plus de 2 500 projets.
 - **Candidature** : lien « Apply today » sur opencollective.com/opensource/apply, qui renvoie aux critères d'acceptation et aux conditions de parrainage fiscal
 
-**Sources** : [Open Source Collective](https://www.oscollective.org/) ; [OSC — critères d'acceptation](https://docs.oscollective.org/getting-started/acceptance-criteria) ; [OSC — frais](https://docs.oscollective.org/welcome-and-introduction-to-osc/fees.md)
+**Sources** : [Open Source Collective](https://www.oscollective.org/) ; [OSC — critères d'acceptation](https://docs.oscollective.org/interested-in-joining-osc/acceptance-criteria) ; [OSC — frais](https://docs.oscollective.org/welcome-and-introduction-to-osc/fees.md)
 
 ## Software Freedom Conservancy
 
@@ -48,7 +48,7 @@ Cette fiche couvre les structures qui hébergent juridiquement et financièremen
 - **Services** : juridique (licences, dépôt et propriété des marques, contrats), financier (comptes fournisseurs et clients, administration de subventions, contrats de prestataires, impôts et rapports), opérationnel (infrastructure technique, organisation de conférences, conseil sur les demandes administratives)
 - **Candidature** : procédure décrite sur la page « Overview & How to Apply »
 
-**Sources** : [NumFOCUS — Overview & How to Apply](https://numfocus.org/projects-overview) ; [NumFOCUS — Project Sponsorship](https://numfocus.org/information-fiscal-sponsorship)
+**Source** : [NumFOCUS — Overview & How to Apply](https://numfocus.org/projects-overview)
 
 ## Open Collective Europe
 

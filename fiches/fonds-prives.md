@@ -60,7 +60,7 @@
 - **Éligibilité** : mainteneur principal ou responsable d'un projet public largement utilisé. Codex Security : mainteneur principal avec droits d'écriture, examiné au cas par cas.
 - **Candidature** : formulaire sur openai.com/form/codex-for-oss, avec acceptation des conditions du programme
 
-**Source** : [OpenAI — Codex for OSS](https://developers.openai.com/codex/community/codex-for-oss)
+**Source** : [OpenAI — Codex for OSS](https://developers.openai.com/community/codex-for-oss)
 
 ## Prototype Fund Suisse
 
