@@ -12,7 +12,8 @@ Toutes les informations ont été relevées sur les pages officielles des progra
 - [Programmes d'entreprises et bourses](fiches/programmes-entreprises-et-bourses.md) : Google Summer of Code, Outreachy, LFX Mentorship, Algora, StackAid, Patreon, crédits et licences (GitLab, Docker, Sentry, Netlify, Vercel, Cloudflare, AWS, Azure, JetBrains, HackerOne), Google Season of Docs (terminé)
 - [Web3 et science](fiches/web3-et-science.md) : Ethereum Foundation, Stellar, Zcash, Filecoin, Solana, Optimism, NumFOCUS, NSF POSE, CZI EOSS (terminé), Web3 Foundation Grants Program (terminé)
 - [Entreprises](fiches/entreprises.md) : Open Source Pledge, thanks.dev
-- [Plateformes](fiches/plateformes.md) : Open Collective, Liberapay, Tidelift, funding.json, FUNDING.yml
+- [Plateformes](fiches/plateformes.md) : Open Collective, Liberapay, Tidelift, funding.json, FUNDING.yml, Kickstarter, Ulule
+- [Communautés et distributions](fiches/communautes-et-distributions.md) : KDE e.V. (sprints), GNOME Fellowship
 - [Modèles économiques](fiches/modeles-economiques.md) : Fair Source, double licence, open core
 - [Services payants](fiches/services-payants.md) : Nextcloud, Plausible, Ghost, Discourse, Home Assistant, Castopod, ZAP, MISP
 - [France](fiches/france.md) : micro-entrepreneur, CAE, association, fonds de dotation, Acre, Arce, Adie

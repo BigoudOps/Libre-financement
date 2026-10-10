@@ -61,3 +61,24 @@ Ce fichier ajoute un bouton de soutien à un dépôt GitHub. Il n'est utile que 
 - **Limite** : chaque plateforme externe prend un seul identifiant (utilisateur, paquet ou projet)
 
 **Source** : [GitHub — afficher un bouton de soutien](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository)
+
+
+## Kickstarter
+
+- **Principe** : financement participatif de projets créatifs, dont du logiciel
+- **Frais** : 5 % prélevés par Kickstarter sur les fonds collectés si le projet est financé, plus les frais de paiement de Stripe, « roughly 3-5 % ». Si l'objectif n'est pas atteint, aucun frais n'est prélevé.
+- **Non précisé sur la page lue** : les pays d'où l'on peut lancer un projet, les conditions propres aux projets open source
+- **Licence** : aucune condition mentionnée
+
+**Source** : [Kickstarter — frais](https://help.kickstarter.com/hc/en-us/articles/115005028634-What-are-the-fees)
+
+## Ulule
+
+- **Principe** : financement participatif en France et en Europe
+- **Commission** : pour un projet en euros collectant moins de 100 000 €, 6,67 % HT en cas de paiement par carte bancaire et 4,17 % HT en cas de paiement par chèque. En mode récompense, elle n'est prélevée que si l'objectif est atteint ; en mode don, elle s'applique à tous les fonds transférés. Au-delà de 100 000 €, les taux baissent par paliers (carte de 5,83 % à 4,17 %, chèque de 3,33 % à 1,67 %). La TVA dépend du pays du porteur de projet.
+- **Frais pour les contributeurs** : depuis le 14 avril 2025, 0,10 € plus 2,2 % TTC par contribution, à la charge des contributeurs seuls
+- **Conditions pour lancer un projet** : être majeur et vivre dans un pays qui utilise l'une des devises prises en charge (euro, dollar américain ou canadien, franc suisse, livre sterling). L'inscription et l'utilisation du site sont gratuites. Types de structures (particulier, association, entreprise) et projets acceptés : non précisés sur la page lue.
+- **Licence** : aucune condition mentionnée
+
+**Sources** : [Ulule — commission](https://support.ulule.com/hc/en-us/articles/211812409-What-is-Ulule-s-commission) ; [Ulule — qui peut utiliser Ulule](https://support.ulule.com/hc/en-us/articles/212423385-Who-can-use-Ulule-How-much-does-it-cost-to-join)
+
