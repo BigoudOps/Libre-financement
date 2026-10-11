@@ -1,0 +1,37 @@
+name: Signaler une erreur
+description: Une information fausse, un lien cassé ou une page qui a changé
+title: "Erreur : <programme ou fichier>"
+body:
+  - type: input
+    id: programme
+    attributes:
+      label: Programme ou fichier concerné
+      placeholder: Exemple, fiches/fonds-prives.md, section NLnet
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type de problème
+      options:
+        - Information fausse ou dépassée
+        - Lien cassé ou redirigé
+        - Programme arrêté ou page disparue
+        - Faute ou formulation à corriger
+        - Autre
+    validations:
+      required: true
+  - type: textarea
+    id: constat
+    attributes:
+      label: Ce que dit le dépôt, et ce que dit la page
+      description: Cite le texte du dépôt et la phrase de la page officielle qui le contredit.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Page officielle qui le montre
+      placeholder: https://
+    validations:
+      required: true

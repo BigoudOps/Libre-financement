@@ -1,0 +1,58 @@
+name: Proposer un programme
+description: Proposer un financement absent du dépôt
+title: "Ajout : <nom du programme>"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de proposer un programme. Les règles sont dans [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) : chaque fait vient d'une page officielle, et ce que la page ne dit pas est noté « non précisé ».
+  - type: input
+    id: nom
+    attributes:
+      label: Nom du programme
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Page officielle
+      description: Adresse de la page du programme sur le site de l'organisme.
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: categorie
+    attributes:
+      label: Catégorie
+      options:
+        - Subventions publiques
+        - Fonds privés
+        - Fondations et parrainage fiscal
+        - Programmes d'entreprises et bourses
+        - Web3 et science
+        - Plateformes
+        - Communautés et distributions
+        - Services payants
+        - Modèles économiques
+        - France (statuts et aides)
+        - Autre / je ne sais pas
+    validations:
+      required: true
+  - type: textarea
+    id: infos
+    attributes:
+      label: Ce que dit la page
+      description: Montant, public visé, conditions, licence exigée. Copie les phrases utiles de la page, entre guillemets. Écris « non précisé » pour ce que la page ne dit pas.
+    validations:
+      required: true
+  - type: checkboxes
+    id: verifications
+    attributes:
+      label: Vérifications
+      options:
+        - label: Les informations viennent de la page officielle indiquée, pas d'un article ou d'un tiers.
+          required: true
+        - label: Je n'ai noté ni date limite ni statut ouvert/fermé.
+          required: true
+        - label: Le programme s'adresse à des développeurs, mainteneurs, collectifs ou associations, pas seulement à des entreprises.
+          required: true
