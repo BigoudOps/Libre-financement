@@ -4,6 +4,8 @@ Les moyens de financer le développement d'un logiciel libre, hors sponsors GitH
 
 Toutes les informations ont été relevées sur les pages officielles des programmes en octobre 2026. Ce qu'une page ne dit pas est écrit « non précisé ». Les dates limites et les statuts d'ouverture ne figurent pas ici : ils changent, la page officielle de chaque programme fait foi.
 
+Un programme manquant, une page qui a changé, une erreur ? [Ouvrir une issue](https://github.com/BigoudOps/Libre-financement/issues/new/choose) ou lire [comment contribuer](#contribuer).
+
 ## Par catégorie
 
 - [Subventions publiques](fiches/subventions-publiques.md) : NLnet, Sovereign Tech Fund, Sovereign Tech Fellowship, Sovereign Tech Standards, Prototype Fund, Restack, CodeSupply
