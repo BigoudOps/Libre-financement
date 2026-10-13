@@ -13,7 +13,7 @@ Un programme manquant, une page qui a changé, une erreur ? [Ouvrir une issue](h
 - [Fondations et parrainage fiscal](fiches/fondations-et-parrainage-fiscal.md) : Open Source Collective, Software Freedom Conservancy, SPI, NumFOCUS, Open Collective Europe, Commonhaus, Linux Foundation, Apache, Eclipse, OpenJS, Rust Foundation Maintainers Fund, Open Collective Foundation (terminé)
 - [Programmes d'entreprises et bourses](fiches/programmes-entreprises-et-bourses.md) : Google Summer of Code, Outreachy, LFX Mentorship, Patreon, crédits et licences (GitLab, Docker, Sentry, Netlify, Vercel, Cloudflare, AWS, Azure, JetBrains, HackerOne), Google Season of Docs (terminé)
 - [Web3 et science](fiches/web3-et-science.md) : Ethereum Foundation, Stellar, Zcash, Filecoin, Solana, Gitcoin, NumFOCUS, NSF PESOSE (ex-POSE), CZI EOSS (terminé), Web3 Foundation Grants Program (terminé)
-- [Entreprises](fiches/entreprises.md) : Open Source Pledge, thanks.dev
+- [Entreprises](fiches/entreprises.md) : Open Source Pledge, thanks.dev, Copie publique
 - [Plateformes](fiches/plateformes.md) : Open Collective, Liberapay, Tidelift, Drips, funding.json, FUNDING.yml, Kickstarter, Ulule
 - [Communautés et distributions](fiches/communautes-et-distributions.md) : KDE e.V. (sprints), GNOME Fellowship, Python Software Foundation, FreeBSD Foundation
 - [Modèles économiques](fiches/modeles-economiques.md) : Fair Source, double licence, open core

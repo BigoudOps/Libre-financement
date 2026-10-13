@@ -94,6 +94,7 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Patreon](fiches/programmes-entreprises-et-bourses.md#patreon) | aucune condition mentionnée |
 | [Open Source Pledge](fiches/entreprises.md#open-source-pledge) | sans objet : engagement d'entreprises |
 | [thanks.dev](fiches/entreprises.md#thanksdev) | sans objet : il faut être une dépendance GitHub d'une entreprise cliente |
+| [Copie publique](fiches/entreprises.md#copie-publique) | « projets ou des initiatives du Libre », sans licence nommée ; bénéficiaires choisis par les salariés des entreprises participantes |
 
 ## Licences non approuvées par l'OSI
 
