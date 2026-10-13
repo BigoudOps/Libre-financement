@@ -76,3 +76,14 @@
 - **Exemples financés** (page des projets) : microG (utiliser des applications Android sans les services Google Play, tour 5), VCAT (outil de vision par ordinateur pour des opérations humanitaires, tour 5), Data Analyst pour openSenseMap (analyse de données accessible à tous, tour 6)
 
 **Sources** : [Prototype Fund](https://www.prototypefund.de/en/) ; [Prototype Fund — FAQ](https://www.prototypefund.de/en/faq/) ; [Prototype Fund — candidature](https://www.prototypefund.de/en/application) ; [Prototype Fund — projets](https://www.prototypefund.de/en/projects/)
+
+## EIC Accelerator
+
+- **Type** : subvention et investissement en fonds propres pour l'innovation, non spécifique au logiciel libre
+- **Financeur** : Conseil européen de l'innovation (EIC), Commission européenne, programme Horizon Europe
+- **Montant** : subvention forfaitaire de moins de 2,5 M€ pour des activités d'innovation de niveau de maturité technologique (TRL) 6 à 8, à réaliser en 24 mois, une seule fois par entreprise sur la période Horizon Europe (2021-2027) ; investissement de 1 à 10 M€, ou plus via STEP ScaleUP ; financement mixte (subvention et investissement) ou investissement seul possibles
+- **Licence** : la page ne mentionne ni open source ni licence
+- **Éligibilité** : start-up et PME seules, personnes physiques qui comptent créer une PME, petites entreprises de taille intermédiaire (jusqu'à 499 salariés, investissement seul). Établissement dans un État membre de l'UE ou un pays associé à Horizon Europe ; une entreprise d'un pays tiers peut se relocaliser avant la candidature complète. Candidats du Royaume-Uni : subvention seule. Une candidature à la fois.
+- **Candidature** : 1) proposition courte (formulaire de 12 pages, présentation de 10 diapositives au plus, vidéo de 3 minutes), déposable à tout moment, examinée par quatre experts, réponse en 4 à 6 semaines ; 2) proposition complète à des dates de dépôt groupé, résultats en 8 à 9 semaines ; 3) entretien devant un jury de l'EIC ; 4) convention de subvention, ou audit préalable de 2 à 6 mois pour un investissement. Un label « Seal of Excellence » peut être attribué aux propositions bien notées mais non retenues.
+
+**Source** : [EIC Accelerator](https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en)

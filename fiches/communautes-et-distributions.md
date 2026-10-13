@@ -26,3 +26,28 @@ Soutiens financiers proposés par des communautés de logiciels libres à leurs 
 - **Licence** : non précisée
 
 **Sources** : [GNOME Fellowship](https://fellowship.gnome.org/) ; [GNOME — dons](https://donate.gnome.org/en/)
+
+## Python Software Foundation — Grants Program
+
+- **Type** : subvention pour des événements de la communauté Python
+- **Financeur** : Python Software Foundation (PSF)
+- **Fonctionnement en 2026** : la page annonce un tour de financement limité, avec un budget de 90 000 $, et précise que ce n'est pas une réouverture complète du programme. Le travail de développement, les sprints, les camps de code pour enfants, les programmes de formation, les ateliers nécessitant du matériel, les demandes groupées et la catégorie « Other » sont en pause.
+- **Montant** (tour 2026) : conférences jusqu'à 2 000 $ (repère : 15 $ par participant et par jour) ; ateliers liés à Python, PyLadies et Django Girls jusqu'à 1 500 $ (repère : 25 $ par élève et par jour). Abonnements Meetup également financés.
+- **Non financé** : voyages personnels, hackathons, goodies et prix, événements sans lien avec Python ou la mission de la PSF. Pour un événement qui ne porte pas uniquement sur Python, seule la partie Python est prise en compte.
+- **Conditions** : conférence avec au moins 60 % de contenu Python et au moins une journée de programme ; atelier d'au moins une journée de 6 heures, au moins un mentor pour 10 participants, programme avec objectifs pédagogiques. Code de conduite et moyen de signalement affichés sur le site de l'événement. Respect de la politique de marque de la PSF ; un nom « PyCon » ou un nouveau logo demande l'accord du comité des marques. Rapport obligatoire après l'événement ; les anciens bénéficiaires doivent avoir rendu le leur. En général, deux événements au plus par ville ou par organisateur et par an.
+- **Candidature** : formulaire sur psfmember.org (compte gratuit), avec budget détaillé selon le modèle fourni. Vérification par l'équipe de la PSF, examen par le Grants Work Group ou le conseil d'administration, vote, décision par courriel.
+- **Licence** : non précisée
+
+**Source** : [PSF — Grants Program](https://www.python.org/psf/grants/)
+
+## FreeBSD Foundation — subventions et projets de développement
+
+- **Type** : subventions (développement, matériel, infrastructure, rencontres de développeurs, groupes d'utilisateurs, promotion) et contrats de développement sur proposition
+- **Financeur** : FreeBSD Foundation
+- **Montant** : aucun plafond ni minimum indiqué. La politique demande d'estimer le besoin « within reason », en dollars américains. Pour un projet de développement, la proposition donne le coût complet : honoraires, rémunération des relecteurs, taxes.
+- **Éligibilité** : uniquement des demandes liées à FreeBSD. Les propositions de développement sont ouvertes à tous les développeurs, y compris ceux qui n'ont pas de droit de commit sur FreeBSD ; ils doivent alors expliquer comment les critères d'achèvement seront atteints.
+- **Projets de développement** : travaux sur les sous-systèmes majeurs ou l'infrastructure de FreeBSD. La proposition décrit le travail, son intérêt pour le projet, un calendrier et un coût, avec une date cible d'achèvement (sans elle, la proposition est rejetée), et désigne un ou plusieurs relecteurs techniques, contributeurs reconnus de FreeBSD. Paiement par jalons, uniquement quand un jalon est atteint et validé. Critères : intérêt, qualité technique, rapport coût-efficacité. Envoi en texte ou PDF par courriel.
+- **Autres subventions** : formulaire en ligne précédé de la politique de subvention ; jusqu'à quatre semaines avant le versement des fonds. Pour du matériel, la fondation décide à qui il appartient à la fin du projet. Rapport obligatoire à la fin du projet. Les aides au voyage suivent une politique distincte.
+- **Licence** : non précisée
+
+**Sources** : [FreeBSD Foundation — subventions](https://freebsdfoundation.org/our-work/grants/) ; [FreeBSD Foundation — politique de subvention](https://freebsdfoundation.org/grant-request-policy/) ; [FreeBSD Foundation — proposer un projet](https://freebsdfoundation.org/get-involved/project-proposal-overview/)

@@ -87,6 +87,18 @@ Subventions de fondations de protocoles (web3) et financements pour logiciels sc
 
 **Sources** : [NSF — PESOSE](https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems) ; [NSF 26-506 — sollicitation](https://www.nsf.gov/funding/opportunities/pesose-pathways-enable-secure-open-source-ecosystems/nsf26-506/solicitation)
 
+## Gitcoin Grants
+
+- **Type** : tours de financement de biens communs, dont des logiciels open source, avec plusieurs mécanismes : financement quadratique (les dons de la communauté déterminent la répartition d'un fonds d'abondement), *Deep Funding*, vote privé MACI, *Conviction Voting*, financement rétroactif, hypercerts évalués par des pairs
+- **Financeur** : Gitcoin et des partenaires externes
+- **Montant** : par tour. GG24 (2025), premier tour de « Gitcoin 3.0 », a distribué environ 1,8 M$ (1,175 M$ de Gitcoin, 632 500 $ de partenaires) en six domaines, dont 600 000 $ pour les outils et l'infrastructure des développeurs Ethereum et 332 500 $ pour la recherche et développement de biens communs.
+- **Éligibilité** (GG24) : projets open source contribuant à des biens communs, en développement actif, avec une équipe vérifiable et en lien avec les problèmes visés par le domaine ; conditions variables selon le domaine et le mécanisme
+- **Candidature** : par tour, sur la page de campagne de Gitcoin
+- **Outil** : la page de GG24 indique que Grants Stack, la plateforme utilisée jusque-là, a été arrêtée en mai 2025 ; le financement quadratique est passé sur Giveth et d'autres plateformes
+- **Licence** : aucune licence nommée ; vise des projets open source
+
+**Source** : [Gitcoin — GG24](https://gitcoin.co/campaigns/gitcoin-grants-24-gg24)
+
 ## Terminés
 
 ### CZI — Essential Open Source Software for Science (cycle 6)

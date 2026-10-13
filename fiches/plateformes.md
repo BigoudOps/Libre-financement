@@ -63,6 +63,18 @@ Ce fichier ajoute un bouton de soutien à un dépôt GitHub. Il n'est utile que 
 **Source** : [GitHub — afficher un bouton de soutien](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository)
 
 
+## Drips
+
+- **Principe** : protocole de financement sur Ethereum. Un dépôt GitHub peut recevoir des fonds avant même d'être réclamé ; ses mainteneurs le réclament ensuite et récupèrent les sommes accumulées. Les financeurs versent des flux continus (*streams*) ou passent par des listes de bénéficiaires (*Drip Lists*) avec des pourcentages ; la page cite aussi la distribution de financements rétroactifs (RetroPGF) et des récompenses pour des pull requests fusionnées (*Waves*).
+- **Répartition** : chaque projet peut reverser une part de ce qu'il reçoit à 200 bénéficiaires au plus, adresses de mainteneurs ou autres projets (ses dépendances). Les fonds se répartissent une fois par mois sur Ethereum (dernier jeudi du mois), chaque jour sur Filecoin et OP Mainnet.
+- **Réclamer un dépôt** : ajouter à la racine de la branche par défaut un fichier `FUNDING.json` contenant une adresse Ethereum générée pendant la procédure. La propriété est vérifiée par une preuve cryptographique contrôlée sur la blockchain. Seul GitHub est pris en charge, d'autres hébergeurs sont annoncés. Il faut un peu d'ETH pour les frais de réseau.
+- **Frais** : « The Drips Protocol is free to use and does not impose any fees on users » ; les frais de réseau (gas) restent à payer, et des applications tierces bâties sur Drips peuvent prendre leurs propres frais
+- **Jetons** : tout jeton ERC-20 pour les flux des Drip Lists ; la page d'accueil cite un exemple en USDC. Conversion en monnaie classique : non précisée.
+- **Exemples** (page d'accueil) : ENS a reversé des fonds à sept projets, dont wagmi et ethers.js (20 % chacun) ; Filecoin a distribué des fonds de son programme RetroPGF
+- **Licence** : aucune condition mentionnée
+
+**Sources** : [Drips — accueil](https://www.drips.network/) ; [Drips — documentation](https://docs.drips.network/) ; [Drips — réclamer un dépôt](https://docs.drips.network/get-support/claim-your-repository/) ; [Drips — FAQ](https://docs.drips.network/faq/)
+
 ## Kickstarter
 
 - **Principe** : financement participatif de projets créatifs, dont du logiciel

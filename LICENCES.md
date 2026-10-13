@@ -38,6 +38,10 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Rust Foundation Maintainers Fund](fiches/fondations-et-parrainage-fiscal.md#rust-foundation-maintainers-fund) | non précisée |
 | [KDE e.V. (sprints)](fiches/communautes-et-distributions.md#kde-ev--soutien-aux-sprints) | non précisée |
 | [GNOME Fellowship](fiches/communautes-et-distributions.md#gnome-fellowship) | non précisée |
+| [Python Software Foundation — Grants Program](fiches/communautes-et-distributions.md#python-software-foundation--grants-program) | non précisée |
+| [FreeBSD Foundation](fiches/communautes-et-distributions.md#freebsd-foundation--subventions-et-projets-de-développement) | non précisée |
+| [Gitcoin Grants](fiches/web3-et-science.md#gitcoin-grants) | aucune licence nommée ; vise des projets open source |
+| [EIC Accelerator](fiches/subventions-publiques.md#eic-accelerator) | ni open source ni licence mentionnés |
 
 ### Bourses et mentorat
 
@@ -86,6 +90,7 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Tidelift](fiches/plateformes.md#tidelift) | documenter clairement le type de licence du paquet ; licences acceptées non précisées |
 | [Kickstarter](fiches/plateformes.md#kickstarter) | aucune condition mentionnée |
 | [Ulule](fiches/plateformes.md#ulule) | aucune condition mentionnée |
+| [Drips](fiches/plateformes.md#drips) | aucune condition mentionnée |
 | [Patreon](fiches/programmes-entreprises-et-bourses.md#patreon) | aucune condition mentionnée |
 | [Open Source Pledge](fiches/entreprises.md#open-source-pledge) | sans objet : engagement d'entreprises |
 | [thanks.dev](fiches/entreprises.md#thanksdev) | sans objet : il faut être une dépendance GitHub d'une entreprise cliente |
@@ -101,10 +106,12 @@ Les programmes qui exigent une licence libre, open source ou approuvée par l'OS
 | [Sovereign Tech Standards](fiches/subventions-publiques.md#sovereign-tech-standards) | vise un projet d'infrastructure numérique open source |
 | [Open Technology Fund](fiches/fonds-prives.md#open-technology-fund--foss-sustainability-fund) | licence non indiquée |
 | [Codex for Open Source](fiches/fonds-prives.md#codex-for-open-source-openai) | vise un projet public largement utilisé |
+| [EIC Accelerator](fiches/subventions-publiques.md#eic-accelerator) | ni open source ni licence mentionnés ; aide à l'innovation non spécifique au logiciel libre |
 | [Open Collective](fiches/plateformes.md#open-collective) | aucune condition mentionnée |
 | [Liberapay](fiches/plateformes.md#liberapay) | aucune condition mentionnée |
 | [Kickstarter](fiches/plateformes.md#kickstarter) | aucune condition mentionnée |
 | [Ulule](fiches/plateformes.md#ulule) | aucune condition mentionnée |
+| [Drips](fiches/plateformes.md#drips) | aucune condition mentionnée |
 | [Patreon](fiches/programmes-entreprises-et-bourses.md#patreon) | aucune condition mentionnée |
 
 ## Modèles de licence qui financent

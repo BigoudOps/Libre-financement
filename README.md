@@ -8,14 +8,14 @@ Un programme manquant, une page qui a changé, une erreur ? [Ouvrir une issue](h
 
 ## Par catégorie
 
-- [Subventions publiques](fiches/subventions-publiques.md) : NLnet, Sovereign Tech Fund, Sovereign Tech Fellowship, Sovereign Tech Standards, Prototype Fund, Restack, CodeSupply
+- [Subventions publiques](fiches/subventions-publiques.md) : NLnet, Sovereign Tech Fund, Sovereign Tech Fellowship, Sovereign Tech Standards, Prototype Fund, Restack, CodeSupply, EIC Accelerator
 - [Fonds privés](fiches/fonds-prives.md) : GitHub Secure Open Source Fund, FLOSS/fund, Alpha-Omega, Open Technology Fund, Codex for Open Source, Prototype Fund Suisse, TeX Development Fund
 - [Fondations et parrainage fiscal](fiches/fondations-et-parrainage-fiscal.md) : Open Source Collective, Software Freedom Conservancy, SPI, NumFOCUS, Open Collective Europe, Commonhaus, Linux Foundation, Apache, Eclipse, OpenJS, Rust Foundation Maintainers Fund, Open Collective Foundation (terminé)
 - [Programmes d'entreprises et bourses](fiches/programmes-entreprises-et-bourses.md) : Google Summer of Code, Outreachy, LFX Mentorship, Patreon, crédits et licences (GitLab, Docker, Sentry, Netlify, Vercel, Cloudflare, AWS, Azure, JetBrains, HackerOne), Google Season of Docs (terminé)
-- [Web3 et science](fiches/web3-et-science.md) : Ethereum Foundation, Stellar, Zcash, Filecoin, Solana, NumFOCUS, NSF PESOSE (ex-POSE), CZI EOSS (terminé), Web3 Foundation Grants Program (terminé)
+- [Web3 et science](fiches/web3-et-science.md) : Ethereum Foundation, Stellar, Zcash, Filecoin, Solana, Gitcoin, NumFOCUS, NSF PESOSE (ex-POSE), CZI EOSS (terminé), Web3 Foundation Grants Program (terminé)
 - [Entreprises](fiches/entreprises.md) : Open Source Pledge, thanks.dev
-- [Plateformes](fiches/plateformes.md) : Open Collective, Liberapay, Tidelift, funding.json, FUNDING.yml, Kickstarter, Ulule
-- [Communautés et distributions](fiches/communautes-et-distributions.md) : KDE e.V. (sprints), GNOME Fellowship
+- [Plateformes](fiches/plateformes.md) : Open Collective, Liberapay, Tidelift, Drips, funding.json, FUNDING.yml, Kickstarter, Ulule
+- [Communautés et distributions](fiches/communautes-et-distributions.md) : KDE e.V. (sprints), GNOME Fellowship, Python Software Foundation, FreeBSD Foundation
 - [Modèles économiques](fiches/modeles-economiques.md) : Fair Source, double licence, open core
 - [Services payants](fiches/services-payants.md) : Nextcloud, Plausible, Ghost, Discourse, Home Assistant, Castopod, ZAP, MISP
 - [France](fiches/france.md) : micro-entrepreneur, CAE, association, fonds de dotation, Acre, Arce, Adie
