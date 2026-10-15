@@ -1,5 +1,10 @@
 # Libre Financement
 
+# Dernière modification : 2026-10-15 15:07:25
+[![github-watchers](https://img.shields.io/github/watchers/BigoudOps/Libre-financement?label=Watch&style=social&logo=github)](https://github.com/BigoudOps/Libre-financement)
+[![github-stars](https://img.shields.io/github/stars/BigoudOps/Libre-financement?style=social&logo=github)](https://github.com/BigoudOps/Libre-financement)
+[![github-forks](https://img.shields.io/github/forks/BigoudOps/Libre-financement?label=Fork&style=social&logo=github)](https://github.com/BigoudOps/Libre-financement)
+
 Les moyens de financer le développement d'un logiciel libre, hors sponsors GitHub et Ko-fi : subventions, fonds privés, fondations, programmes d'entreprises, plateformes, modèles de licence, et le cadre français. Pour chaque programme : montant, licence demandée, conditions, candidature, exemples et sources.
 
 Toutes les informations ont été relevées sur les pages officielles des programmes en octobre 2026. Ce qu'une page ne dit pas est écrit « non précisé ». Les dates limites et les statuts d'ouverture ne figurent pas ici : ils changent, la page officielle de chaque programme fait foi.
