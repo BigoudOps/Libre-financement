@@ -1,5 +1,6 @@
 # France
 
+# Dernière modification : 2026-10-15 10:32:01
 Statuts et fiscalité pour être payé en France, à titre individuel ou en association, en développant du logiciel libre. Seuils et taux changent : les chiffres portent l'année indiquée par la page officielle, relevée en octobre 2026.
 
 ## Statuts pour être payé
@@ -29,7 +30,6 @@ Statuts et fiscalité pour être payé en France, à titre individuel ou en asso
 
 - **Impôts commerciaux** : l'administration fiscale examine trois critères dans l'ordre. D'abord la gestion désintéressée : si elle n'est pas avérée, l'organisme est soumis aux impôts commerciaux. Ensuite la concurrence avec le secteur lucratif : sans concurrence, l'activité n'est pas lucrative. Enfin, en cas de concurrence, la règle des « 4 P » : produit, public, prix, publicité, par ordre d'importance décroissante.
 - **Dons des particuliers** : pour les organismes d'intérêt général, réduction d'impôt de 66 % des versements, dans la limite de 20 % du revenu imposable du foyer. Les reçus ne sont pas joints à la déclaration, ils sont conservés pour l'administration. La fiche liste les œuvres à caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial, culturel, de valorisation du patrimoine ou de défense de l'environnement, et les fondations reconnues d'utilité publique.
-- **Limite de cette fiche** : la page sur les associations de l'administration associations.gouv.fr n'était pas consultable par l'outil (robots.txt). Les critères viennent du BOFiP.
 
 **Sources** : [BOFiP — organismes sans but lucratif](https://bofip.impots.gouv.fr/bofip/2343-PGP.html/identifiant=BOI-IS-CHAMP-10-50-10-10-20260805) ; [Impôts.gouv.fr — dons à une association](https://www.impots.gouv.fr/url-stable-fiche-qr-chatbot-ndeg4-dons-une-association)
 
