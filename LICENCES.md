@@ -1,5 +1,6 @@
 # Financements par licence
 
+# Dernière modification : 2026-10-16 18:09:43
 Pour chaque famille de licence : les financements dont la condition de licence est remplie, d'après les pages officielles des programmes.
 
 Lecture : une licence approuvée par l'OSI remplit les conditions « approuvée par l'OSI » et « open source ». Les pages qui écrivent « libre » ou « reconnue » sans citer l'OSI sont signalées telles quelles.
@@ -8,7 +9,7 @@ Lecture : une licence approuvée par l'OSI remplit les conditions « approuvée 
 
 Liste de l'[OSI](https://opensource.org/licenses) : MIT, Apache-2.0, BSD 2 clauses, BSD 3 clauses, ISC, MPL-2.0, LGPL-3.0, GPL-2.0, GPL-3.0, AGPL-3.0, EUPL-1.2, Unlicense.
 
-Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apache-2.0, BSD, ISC) ou copyleft (MPL, LGPL, GPL, AGPL, EUPL), le critère est le même. Exception : la Filecoin Foundation demande une double licence MIT et Apache 2.0.
+Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apache-2.0, BSD, ISC) ou copyleft (MPL, LGPL, GPL, AGPL, EUPL), le critère est le même. Exceptions : la Filecoin Foundation demande une double licence MIT et Apache 2.0 ; 1Password for Open Source demande une licence permissive.
 
 ### Subventions et fonds
 
@@ -29,6 +30,7 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Prototype Fund Suisse](fiches/fonds-prives.md#prototype-fund-suisse) | open source encouragé mais non obligatoire ; aucune licence nommée |
 | [Ethereum Foundation ESP](fiches/web3-et-science.md#ethereum-foundation--esp) | résultats open source ou librement disponibles |
 | [TeX Development Fund](fiches/fonds-prives.md#tex-development-fund-tug) | distribution conforme à la Free Software Definition (CTAN et TeX Live) |
+| [SIDN fonds](fiches/fonds-prives.md#sidn-fonds-pays-bas) | aucune condition mentionnée ; résultats à partager ouvertement |
 | [Filecoin Foundation Open Grants](fiches/web3-et-science.md#filecoin-foundation--open-grants) | double licence MIT et Apache 2.0 |
 | [Solana Foundation](fiches/web3-et-science.md#solana-foundation--subventions) | « open source in spirit », pas de licence nommée |
 | [Stellar Community Fund](fiches/web3-et-science.md#stellar-community-fund) | non précisée |
@@ -40,6 +42,10 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [GNOME Fellowship](fiches/communautes-et-distributions.md#gnome-fellowship) | non précisée |
 | [Python Software Foundation — Grants Program](fiches/communautes-et-distributions.md#python-software-foundation--grants-program) | non précisée |
 | [FreeBSD Foundation](fiches/communautes-et-distributions.md#freebsd-foundation--subventions-et-projets-de-développement) | non précisée |
+| [Perl and Raku Foundation](fiches/communautes-et-distributions.md#perl-and-raku-foundation--subventions) | licence publique « free for redistribution and use » (page Grant Benefits) |
+| [Ruby Association Grant](fiches/communautes-et-distributions.md#ruby-association-grant) | une ou plusieurs licences approuvées par l'OSI ; compatible avec la licence d'origine en cas d'amélioration |
+| [Django Software Foundation (événements)](fiches/communautes-et-distributions.md#django-software-foundation--soutien-aux-événements) | sans objet : soutien à des événements |
+| [Wikimedia Rapid Fund](fiches/communautes-et-distributions.md#wikimedia-foundation--rapid-fund) | publication sous « ethical, open access agreements » ; aucune licence nommée |
 | [Gitcoin Grants](fiches/web3-et-science.md#gitcoin-grants) | aucune licence nommée ; vise des projets open source |
 | [EIC Accelerator](fiches/subventions-publiques.md#eic-accelerator) | ni open source ni licence mentionnés |
 
@@ -50,6 +56,7 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Google Summer of Code](fiches/programmes-entreprises-et-bourses.md#google-summer-of-code) | organisations ayant déjà publié sous licence approuvée par l'OSI |
 | [Outreachy](fiches/programmes-entreprises-et-bourses.md#outreachy) | approuvée par l'OSI et libre selon la FSF, ou Creative Commons pour œuvres culturelles libres |
 | [LFX Mentorship](fiches/programmes-entreprises-et-bourses.md#lfx-mentorship) | projet « 100 % open source » ; licence précise non précisée |
+| [Software Sustainability Institute — Fellowship](fiches/web3-et-science.md#software-sustainability-institute--fellowship) | non précisée |
 
 ### Avantages en nature (crédits, licences, abonnements)
 
@@ -59,12 +66,21 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Docker-Sponsored Open Source](fiches/programmes-entreprises-et-bourses.md#docker-sponsored-open-source) | définition de l'OSI |
 | [HackerOne Community Edition](fiches/programmes-entreprises-et-bourses.md#hackerone-community-edition) | licence approuvée par l'OSI |
 | [Netlify Open Source](fiches/programmes-entreprises-et-bourses.md#netlify-open-source) | approuvée par l'OSI ou Creative Commons |
-| [AWS Open Source Credits](fiches/programmes-entreprises-et-bourses.md#aws-open-source-credits) | approuvée par l'OSI (article de 2019, à revérifier) |
+| [AWS Open Source Credits](fiches/programmes-entreprises-et-bourses.md#aws-open-source-credits) | approuvée par l'OSI (annonce du 31 mars 2025) |
 | [JetBrains Open Source](fiches/programmes-entreprises-et-bourses.md#jetbrains-open-source) | définition de l'open source (Open Source Definition), non commercial |
 | [Cloudflare Project Alexandria](fiches/programmes-entreprises-et-bourses.md#cloudflare-project-alexandria) | « licence OSS reconnue » |
+| [Fastly Fast Forward](fiches/programmes-entreprises-et-bourses.md#fastly-fast-forward) | aucune licence nommée ; la licence compte dans l'évaluation |
 | [Sentry](fiches/programmes-entreprises-et-bourses.md#sentry-open-source-sponsorship) | conseille une licence « friendly » comme Apache ou MIT |
 | [Vercel Open Source Program](fiches/programmes-entreprises-et-bourses.md#vercel-open-source-program) | projet open source ; licence précise non précisée |
 | [Microsoft Azure Credits](fiches/programmes-entreprises-et-bourses.md#microsoft-azure-credits) | non précisée |
+| [1Password for Open Source](fiches/programmes-entreprises-et-bourses.md#1password-for-open-source) | licence open source permissive (« permissive open source license ») |
+| [Algolia DocSearch](fiches/programmes-entreprises-et-bourses.md#algolia-docsearch) | aucune licence nommée ; documentation de projets open source |
+| [Read the Docs Community](fiches/programmes-entreprises-et-bourses.md#read-the-docs-community) | aucune licence nommée ; projets libres et open source |
+| [Crowdin](fiches/programmes-entreprises-et-bourses.md#crowdin-pour-lopen-source) | licence approuvée par « an open-source initiative » |
+| [Transifex](fiches/programmes-entreprises-et-bourses.md#transifex-pour-lopen-source) | approuvée par l'OSI |
+| [Weblate — offre Libre](fiches/programmes-entreprises-et-bourses.md#weblate--offre-libre) | non précisée ; projets publics |
+| [BrowserStack](fiches/programmes-entreprises-et-bourses.md#browserstack-pour-lopen-source) | aucune condition mentionnée |
+| [CircleCI](fiches/programmes-entreprises-et-bourses.md#circleci-pour-lopen-source) | non précisée |
 
 ### Hébergement et parrainage fiscal
 
@@ -93,8 +109,10 @@ Presque aucune page ne distingue ces licences entre elles : permissive (MIT, Apa
 | [Drips](fiches/plateformes.md#drips) | aucune condition mentionnée |
 | [Patreon](fiches/programmes-entreprises-et-bourses.md#patreon) | aucune condition mentionnée |
 | [Open Source Pledge](fiches/entreprises.md#open-source-pledge) | sans objet : engagement d'entreprises |
-| [thanks.dev](fiches/entreprises.md#thanksdev) | sans objet : il faut être une dépendance GitHub d'une entreprise cliente |
+| [thanks.dev](fiches/entreprises.md#thanksdev) | aucune condition mentionnée ; il faut être une dépendance d'un donateur et inscrire son projet sur thanks.dev |
 | [Copie publique](fiches/entreprises.md#copie-publique) | « projets ou des initiatives du Libre », sans licence nommée ; bénéficiaires choisis par les salariés des entreprises participantes |
+| [Microsoft FOSS Fund](fiches/entreprises.md#microsoft-foss-fund) | approuvée par l'OSI ; projets proposés par des salariés de Microsoft |
+| [Spotify FOSS Fund](fiches/entreprises.md#spotify-foss-fund) | aucune condition mentionnée ; projets proposés par les équipes de Spotify |
 
 ## Licences non approuvées par l'OSI
 
@@ -108,6 +126,7 @@ Les programmes qui exigent une licence libre, open source ou approuvée par l'OS
 | [Open Technology Fund](fiches/fonds-prives.md#open-technology-fund--foss-sustainability-fund) | licence non indiquée |
 | [Codex for Open Source](fiches/fonds-prives.md#codex-for-open-source-openai) | vise un projet public largement utilisé |
 | [EIC Accelerator](fiches/subventions-publiques.md#eic-accelerator) | ni open source ni licence mentionnés ; aide à l'innovation non spécifique au logiciel libre |
+| [SIDN fonds](fiches/fonds-prives.md#sidn-fonds-pays-bas) | ni open source ni licence mentionnés ; résultats à partager ouvertement, impact d'abord aux Pays-Bas |
 | [Open Collective](fiches/plateformes.md#open-collective) | aucune condition mentionnée |
 | [Liberapay](fiches/plateformes.md#liberapay) | aucune condition mentionnée |
 | [Kickstarter](fiches/plateformes.md#kickstarter) | aucune condition mentionnée |

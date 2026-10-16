@@ -1,5 +1,6 @@
 # Programmes d'entreprises et bourses
 
+# Dernière modification : 2026-10-16 18:13:43
 Les entrées sont classées par nature : bourses et mentorat rémunérés, plateformes, puis avantages en nature (crédits, licences, abonnements). Les avantages en nature ne sont pas des paiements en argent.
 
 ## Google Summer of Code
@@ -122,17 +123,29 @@ Les entrées sont classées par nature : bourses et mentorat rémunérés, plate
 
 **Source** : [Cloudflare — Project Alexandria](https://www.cloudflare.com/lp/project-alexandria/)
 
+## Fastly Fast Forward
+
+- **Type** : avantages en nature (services Fastly gratuits ou à prix réduit)
+- **Financeur** : Fastly
+- **Contenu** : Fastly « extend[s] free services to eligible open source projects and nonprofits that support them » ; la page parle aussi de « free and discounted services ». Services et montants non précisés.
+- **Licence** : aucune licence nommée ; la page indique que « the license is important » dans l'évaluation
+- **Éligibilité** : projets open source et organisations à but non lucratif qui les soutiennent, évalués sur trois critères : ouverture (licence et valeurs de collaboration ouverte), communauté inclusive et accueillante pour les contributeurs, démarche vers des processus sûrs et dignes de confiance
+- **Candidature** : formulaire « Fast Forward application » ; Fastly recontacte le projet sur ses besoins techniques
+- **Exemples** : la page présente le Python Package Index, soutenu par la Python Software Foundation, et un service de miroirs de Fosshost en partenariat avec le CDN de Fastly ; elle affiche aussi les logos de Python, Scratch, Rust, Ruby, de la Linux Foundation, de l'Apache Software Foundation et de curl, sans préciser s'ils relèvent de Fast Forward
+
+**Source** : [Fastly — Fast Forward](https://www.fastly.com/fast-forward)
+
 ## AWS Open Source Credits
 
-- **Type** : avantages en nature (crédits promotionnels AWS)
+- **Type** : avantages en nature (crédits promotionnels AWS), programme « AWS Cloud Credits for Open Source »
 - **Financeur** : AWS
-- **Contenu** : crédits promotionnels, utilisés « typically » pour les tests en amont et de performance, le CI/CD ou le stockage d'artefacts ; montants non précisés ; crédits expirant après un an ; non applicables rétroactivement
-- **Licence** : « Your software project must also be licensed under an OSI-approved license » ; l'article encourage à candidater même si les licences courantes du projet ne sont pas approuvées par l'OSI
-- **Éligibilité** : compte AWS actif avec moyen de paiement valide et sans facture impayée ; demandes jugées sur leur pertinence pour AWS et ses clients, selon les « Amazon Leadership Principles » ; l'article indique favoriser en général les projets dont les mainteneurs viennent de plusieurs entités ou qui appartiennent à des fondations ou à des organisations à but non lucratif
-- **Candidature** : formulaire « AWS Open Source Credits Application » envoyé par courriel à awsopen@amazon.com ; examen mensuel
-- **Limite de cette fiche** : seul l'article AWS du 14 octobre 2019 a pu être lu ; la page actuelle du programme n'a pas pu être consultée, ces conditions sont donc à revérifier
+- **Contenu** : crédits utilisables pour le calcul, le stockage, les bases de données, les outils de développement et l'infrastructure de test ; montants non précisés. Plus de 200 projets soutenus depuis 2019 (annonce du 31 mars 2025). Durée de validité non précisée en 2025 ; le billet de 2019 indiquait des crédits expirant après un an.
+- **Licence** : « organizations must have an OSI-approved license »
+- **Éligibilité** (mars 2025) : projet non dominé par un seul fournisseur et non financé par du capital-risque ; projet activement maintenu, avec une communauté de développeurs animée. AWS privilégie les projets techniquement complémentaires d'AWS ou importants pour ses clients.
+- **Candidature** : formulaire « AWS Open Source Credits Application » envoyé par courriel à awsopensourcecredits@amazon.com ; examen et attribution chaque mois. Les demandes sont examinées en décembre, mais aucun crédit n'est attribué ce mois-là.
+- **Bénéficiaires cités** (annonce de 2025) : Kubernetes (CNCF), Python Software Foundation (PyPI), Let's Encrypt. L'annonce mentionne aussi un engagement de 3 M$ par an pour Kubernetes, sans préciser s'il relève de ce programme.
 
-**Source** : [AWS Open Source Blog — promotional credits (14 octobre 2019)](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
+**Sources** : [AWS Open Source Blog — AWS Cloud Credits for Open Source Projects (31 mars 2025)](https://aws.amazon.com/blogs/opensource/aws-cloud-credits-for-open-source-projects-affirming-our-commitment/) ; [AWS Open Source Blog — promotional credits (14 octobre 2019)](https://aws.amazon.com/blogs/opensource/aws-promotional-credits-open-source-projects/)
 
 ## Microsoft Azure Credits
 
@@ -170,6 +183,94 @@ Les entrées sont classées par nature : bourses et mentorat rémunérés, plate
 - **Non précisé** : plafond des primes, nombre de rapports ou d'utilisateurs autorisés
 
 **Source** : [HackerOne — Community Edition pour l'open source](https://www.hackerone.com/company/open-source-community)
+
+## 1Password for Open Source
+
+- **Type** : avantages en nature (compte 1Password Teams gratuit)
+- **Financeur** : 1Password
+- **Contenu** : compte Teams gratuit, sans expiration tant que le projet reste éligible ; non transférable
+- **Licence** : projet « under a permissive open source license »
+- **Éligibilité** : comptes Teams uniquement ; pas d'activité commerciale liée au compte (GitHub Sponsors ou Open Collective acceptés) ; contributeur principal d'un projet d'au moins 30 jours et actif ; les organisateurs de rencontres, événements et conférences open source peuvent aussi candidater
+- **Candidature** : être propriétaire d'un compte Teams (essai de 14 jours possible), ajouter une autre personne au groupe Owners, puis remplir le formulaire en ouvrant une issue dans le dépôt du programme
+
+**Source** : [1Password — for-open-source](https://github.com/1Password/for-open-source)
+
+## Algolia DocSearch
+
+- **Type** : avantages en nature (recherche hébergée pour la documentation)
+- **Financeur** : Algolia
+- **Contenu** : « Free for open-source and technical docs » ; jusqu'à 10 000 enregistrements par plan gratuit ; une application Algolia par projet
+- **Licence** : aucune licence nommée
+- **Éligibilité** : documentation de projets open source et blogs techniques ; les autres sections d'un site demandent un compte payant. Obligation de garder le logo « Search by Algolia » près des résultats, sinon le projet perd son éligibilité.
+- **Candidature** : inscription sur le tableau de bord Algolia, puis « Apply to the DocSearch program », une demande par projet
+
+**Sources** : [Algolia DocSearch](https://docsearch.algolia.com/) ; [DocSearch — programme](https://docsearch.algolia.com/docs/docsearch-program)
+
+## Read the Docs Community
+
+- **Type** : avantages en nature (hébergement de documentation)
+- **Financeur** : Read the Docs
+- **Contenu** : « Free for open-source software » ; dépôts publics clonés, documentation publique, hébergement financé par la publicité ; limites chiffrées non précisées
+- **Licence** : aucune licence nommée ; vise les projets libres et open source
+- **Éligibilité** : projets open source avec dépôt et documentation publics
+- **Candidature** : non précisée
+
+**Source** : [Read the Docs — tarifs](https://about.readthedocs.com/pricing/)
+
+## Crowdin pour l'open source
+
+- **Type** : avantages en nature (plateforme de traduction)
+- **Financeur** : Crowdin
+- **Contenu** : « Crowdin is completely free of charge for open-source projects »
+- **Licence** : « licensed under an approved license from an open-source initiative »
+- **Éligibilité** : aucun produit commercial lié au projet ; code source public ; projet travaillé depuis au moins trois mois ; communauté active de collaborateurs ; demande faite par le responsable du projet ; projet de traduction déjà créé sur Crowdin ; actualités du site à jour ; versions publiées régulièrement. Engagement à rejoindre le groupe bêta et à verser les traductions du projet dans la mémoire de traduction Crowdin Global TM.
+- **Candidature** : formulaire (nom du projet, licence, site, description, courriel, nom)
+
+**Source** : [Crowdin — demande pour projet open source](https://crowdin.com/page/open-source-project-setup-request)
+
+## Transifex pour l'open source
+
+- **Type** : avantages en nature (plateforme de traduction)
+- **Financeur** : Transifex
+- **Contenu** : accès gratuit, « FREE FOREVER », pour localiser un projet open source
+- **Licence** : « publicly available source codes licensed under an OSI-approved license »
+- **Éligibilité** : projet sans financement, sans revenus ni modèle commercial
+- **Candidature** : non décrite ; bouton d'inscription « Use Transifex for Free »
+
+**Source** : [Transifex — open source](https://www.transifex.com/open-source/)
+
+## Weblate — offre Libre
+
+- **Type** : avantages en nature (hébergement de traduction)
+- **Financeur** : Weblate
+- **Contenu** : offre Libre gratuite, avec les mêmes limites que l'offre 160k : 160 000 chaînes hébergées, projets, composants et traducteurs illimités
+- **Licence** : non précisée ; l'offre vise les projets libres
+- **Éligibilité** : « only for public projects »
+- **Candidature** : configuration depuis la page d'hébergement de Weblate
+
+**Source** : [Weblate — hébergement](https://weblate.org/en/hosting/)
+
+## BrowserStack pour l'open source
+
+- **Type** : avantages en nature (tests sur navigateurs et appareils)
+- **Financeur** : BrowserStack
+- **Contenu** : accès à vie pour tester un projet open source sur plus de 3 500 navigateurs et appareils ; tests illimités sur Live, Automate et Percy ; 5 utilisateurs et 5 sessions parallèles
+- **Licence** : aucune condition mentionnée
+- **Éligibilité** : non précisée, au-delà d'un projet open source
+- **Candidature** : inscription, puis URL du projet dans la section « Project Info »
+
+**Source** : [BrowserStack — open source](https://www.browserstack.com/open-source)
+
+## CircleCI pour l'open source
+
+- **Type** : avantages en nature (crédits d'intégration continue)
+- **Financeur** : CircleCI
+- **Contenu** : jusqu'à 400 000 crédits par mois pour les builds open source Linux, Arm et Docker ; 30 000 crédits pour macOS et Windows ; réservé aux « Organizations on our open source plan »
+- **Licence** : non précisée
+- **Éligibilité** : non précisée
+- **Candidature** : non décrite ; lien vers l'inscription et la documentation open source
+
+**Source** : [CircleCI — open source](https://circleci.com/open-source/)
 
 ## Terminés
 

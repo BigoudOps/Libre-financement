@@ -2,6 +2,7 @@
 
 Il existe pas mal d'aides pour financer des projets libres, mais on ne les connaît pas. Je les ai rassemblées ici.
 
+# Dernière modification : 2026-10-16 18:19:20
 [![github-watchers](https://img.shields.io/github/watchers/BigoudOps/Libre-financement?label=Watch&style=social&logo=github)](https://github.com/BigoudOps/Libre-financement)
 [![github-stars](https://img.shields.io/github/stars/BigoudOps/Libre-financement?style=social&logo=github)](https://github.com/BigoudOps/Libre-financement)
 [![github-forks](https://img.shields.io/github/forks/BigoudOps/Libre-financement?label=Fork&style=social&logo=github)](https://github.com/BigoudOps/Libre-financement)

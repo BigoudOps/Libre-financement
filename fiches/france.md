@@ -1,6 +1,6 @@
 # France
 
-# Dernière modification : 2026-10-15 10:32:01
+# Dernière modification : 2026-10-16 18:12:10
 Statuts et fiscalité pour être payé en France, à titre individuel ou en association, en développant du logiciel libre. Seuils et taux changent : les chiffres portent l'année indiquée par la page officielle, relevée en octobre 2026.
 
 ## Statuts pour être payé
@@ -28,10 +28,19 @@ Statuts et fiscalité pour être payé en France, à titre individuel ou en asso
 
 ### Association loi 1901
 
-- **Impôts commerciaux** : l'administration fiscale examine trois critères dans l'ordre. D'abord la gestion désintéressée : si elle n'est pas avérée, l'organisme est soumis aux impôts commerciaux. Ensuite la concurrence avec le secteur lucratif : sans concurrence, l'activité n'est pas lucrative. Enfin, en cas de concurrence, la règle des « 4 P » : produit, public, prix, publicité, par ordre d'importance décroissante.
-- **Dons des particuliers** : pour les organismes d'intérêt général, réduction d'impôt de 66 % des versements, dans la limite de 20 % du revenu imposable du foyer. Les reçus ne sont pas joints à la déclaration, ils sont conservés pour l'administration. La fiche liste les œuvres à caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial, culturel, de valorisation du patrimoine ou de défense de l'environnement, et les fondations reconnues d'utilité publique.
+- **Principe** : une association loi 1901 n'est pas soumise aux impôts commerciaux (IS, CET, TVA), sauf si elle exerce une activité lucrative, ce que l'administration fiscale doit démontrer.
+- **Activité lucrative ou non** : l'analyse se fait activité par activité. Étape préalable : une association qui travaille principalement au profit d'entreprises membres, qui en tirent un avantage concurrentiel, est soumise aux impôts commerciaux sans autre examen. Sinon, trois étapes dans l'ordre : la gestion est-elle désintéressée ? Si oui, l'activité concurrence-t-elle des entreprises ? Sans concurrence, elle n'est pas lucrative. En cas de concurrence, s'exerce-t-elle dans des conditions similaires à celles d'une entreprise (règle des « 4 P ») ?
+- **Gestion désintéressée** : gestion bénévole par des personnes sans intérêt direct ou indirect dans les résultats, aucune distribution de bénéfice, aucun membre attributaire d'une part de l'actif (sous réserve du droit de reprise des apports). La rémunération des dirigeants est possible sous conditions, non précisées sur la page.
+- **Règle des « 4 P »**, par ordre d'importance décroissante : le produit (répond-il à un besoin non satisfait ?), le public (accès à des personnes habituellement éloignées du service ?), le prix (plus accessible, ajusté selon la situation ?), la publicité (simple information ou publicité commerciale ?). Il n'est pas exigé que tous les critères soient remplis.
+- **Franchise des activités lucratives accessoires** : pas de TVA, de CET ni d'IS de droit commun si la gestion est désintéressée, si les activités non lucratives restent significativement prépondérantes et si les recettes lucratives accessoires encaissées dans l'année civile ne dépassent pas 80 011 € HT (IS : exercices clos à compter du 31 décembre 2023 ; TVA : recettes encaissées à compter du 1er janvier 2024 ; CET : année 2024). Seuil réévalué chaque année. Cotisations, dons, subventions et revenus du patrimoine ne sont pas comptés.
+- **Sectorisation** : une association dont les activités lucratives ne sont pas prépondérantes peut, si elles sont comptablement dissociables, les regrouper dans un secteur lucratif seul soumis à l'IS et à la CET.
+- **TVA, franchise en base** : une association soumise à la TVA n'en facture pas si son chiffre d'affaires de l'année civile précédente ne dépasse pas 36 800 € pour les prestations de services (91 900 € pour les ventes et l'hébergement). Elle redevient redevable dès que le chiffre d'affaires de l'année en cours dépasse 39 100 € (101 000 €). Factures portant la mention « TVA non applicable, article 293 B du CGI ». Année de ces seuils : non précisée.
+- **Dons des particuliers** : pour les organismes d'intérêt général, réduction d'impôt de 66 % des versements, dans la limite de 20 % du revenu imposable du foyer. Organismes concernés : œuvres ou organismes d'intérêt général à caractère philanthropique, éducatif, scientifique, social, humanitaire, sportif, familial, culturel, de valorisation du patrimoine ou de défense de l'environnement ; associations ou fondations reconnues d'utilité publique ; associations cultuelles ou de bienfaisance autorisées à recevoir des dons et legs.
+- **Organismes d'aide aux personnes en difficulté** (repas, soins, logement) : réduction de 75 %, dans la limite de 1 000 € pour les sommes versées en 2023 ; la fraction au-delà relève du taux de 66 %.
+- **Organismes établis dans l'UE ou l'EEE** : réduction dans les mêmes conditions que pour un organisme situé en France, si l'organisme est agréé et que l'État a conclu avec la France une convention fiscale d'assistance administrative contre la fraude et l'évasion fiscales.
+- **Justificatifs** : les reçus ne sont pas joints à la déclaration, ils sont conservés pour l'administration.
 
-**Sources** : [BOFiP — organismes sans but lucratif](https://bofip.impots.gouv.fr/bofip/2343-PGP.html/identifiant=BOI-IS-CHAMP-10-50-10-10-20260805) ; [Impôts.gouv.fr — dons à une association](https://www.impots.gouv.fr/url-stable-fiche-qr-chatbot-ndeg4-dons-une-association)
+**Sources** : [Associations.gouv.fr — l'association et les impôts commerciaux](https://associations.gouv.fr/lassociation-et-les-impots-commerciaux) ; [Associations.gouv.fr — l'assujettissement aux impôts commerciaux](https://associations.gouv.fr/lexception-lassujettissement-aux-impots-commerciaux) ; [BOFiP — organismes sans but lucratif](https://bofip.impots.gouv.fr/bofip/2343-PGP.html/identifiant=BOI-IS-CHAMP-10-50-10-10-20260805) ; [Impôts.gouv.fr — dons à une association](https://www.impots.gouv.fr/url-stable-fiche-qr-chatbot-ndeg4-dons-une-association) (mise à jour le 5 avril 2024, montants de 2023)
 
 ### Fonds de dotation
 
@@ -76,6 +85,6 @@ Statuts et fiscalité pour être payé en France, à titre individuel ou en asso
 - **Condition** : ne pas être éligible à un crédit bancaire classique (page « étape 3 »)
 - **Prêt d'honneur** : jusqu'à 3 000 €, sans intérêts, avec possibilité de remboursement différé ; conditions d'éligibilité non précisées
 - **Demande** : rendez-vous par chat ou téléphone dans l'une des 200 agences de l'Adie
-- **Non précisé sur les pages lues** : durée de remboursement, taux et frais
+- **Non précisé** : durée de remboursement, taux et frais
 
 **Sources** : [Adie — le micro crédit expliqué](https://www.adie.org/fiches-pratiques/le-micro-credit/) ; [Adie — créer ma boîte, étape 3](https://www.adie.org/fiches-pratiques/creer-ma-boite-en-4-etapes-etape-3-le-financement/)

@@ -1,5 +1,7 @@
 # Entreprises
 
+# Dernière modification : 2026-10-16 18:12:46
+
 ## Open Source Pledge
 
 - **Type** : engagement d'entreprises, sans candidature
@@ -12,14 +14,16 @@
 
 ## thanks.dev
 
-- **Type** : répartition automatique des dons d'une entreprise entre ses dépendances
-- **Fonctionnement** (d'après l'exemple de Canonical) : thanks.dev lit les dépôts GitHub de l'entreprise, établit l'arbre des dépendances jusqu'à 3 niveaux, puis répartit les fonds en largeur d'abord : plus une dépendance est utilisée, plus elle reçoit. Les poids peuvent être ajustés par langage et par organisation.
-- **Commission** : 5 %
-- **Pour le développeur** : être une dépendance GitHub d'une entreprise cliente. Il faut souvent mettre en place un moyen de recevoir les fonds. Les projets hébergés sur Launchpad ne sont pas pris en charge.
-- **Exemple** : Canonical s'est engagé à verser 120 000 $, soit 10 000 $ par mois, à partir d'avril 2025 ; environ 358 utilisateurs et organisations GitHub concernés
-- **Limite de cette fiche** : le site thanks.dev n'a pas pu être consulté directement (erreur 403) ; les faits viennent de l'article de Canonical
+- **Type** : répartition automatique d'un don entre les dépendances du donateur, sans candidature
+- **Fonctionnement** : le donateur donne accès à son code hébergé sur GitHub ou GitLab et choisit un montant. thanks.dev lit les fichiers manifestes, établit l'arbre des dépendances jusqu'à 3 niveaux et répartit le don en largeur d'abord : chaque niveau reçoit (1/2)^n du don (n = profondeur), partagé entre les dépendances de ce niveau au prorata de leur fréquence. Dépendances circulaires et dépendances de développement transitives exclues. Le donateur peut exclure des projets ou en pondérer (« boost »).
+- **Écosystèmes** : Go (go.mod), Java (pom.xml), JavaScript (package.json), Python (requirements, Pipfile, pyproject.toml), PHP (composer.json), Ruby (Gemfile), Rust (Cargo.toml). Elixir désactivé ; Objective-C, Swift et .NET annoncés, sans date.
+- **Frais** : au moins 5 % prélevés sur le don, côté donateur. Aucun frais pour les mainteneurs, mais les frais de GitHub Sponsors ou d'Open Collective sont répercutés.
+- **Pour le développeur** : seuls les projets inscrits sur thanks.dev reçoivent de l'argent. L'inscription passe par GitHub, pour vérifier les droits d'administration (l'accès peut être limité à un seul dépôt public). Versements par Stripe Connect, GitHub Sponsors ou Open Collective, arrondis au dollar inférieur, à partir de 1 $ de solde. Un solde non réclamé pendant plus de 3 mois est redistribué aux autres bénéficiaires du donateur.
+- **Délai** : un don reste 7 jours en attente (ajustement ou remboursement possible) avant d'être distribué
+- **Entreprises citées sur la page** : Canonical, Square, Sentry, Sourcegraph, Frontend Masters
+- **Licence** : aucune condition mentionnée
 
-**Source** : [Canonical — thanks.dev](https://canonical.com/blog/canonical-thanks-dev-giving-back-to-open-source-developers)
+**Sources** : [thanks.dev](https://thanks.dev/) ; [thanks.dev — How does thanks.dev work?](https://thanks.dev/static/how) ; [thanks.dev — ecosystems](https://thanks.dev/static/ecosystems) ; [thanks.dev — FAQ](https://thanks.dev/faq)
 
 ## Copie publique
 
@@ -33,3 +37,24 @@
 - **Licence** : aucune condition nommée ; vise des « projets ou des initiatives du Libre »
 
 **Source** : [Copie publique](https://copiepublique.fr/)
+
+## Microsoft FOSS Fund
+
+- **Type** : fonds d'entreprise, sans candidature des projets
+- **Principe** : chaque trimestre, « up to $12,500 USD across one or more open source project(s) » ; une ancienne section de la même page indique « up to 10,000 », sans devise. Toute personne salariée ou stagiaire chez Microsoft peut proposer un projet ; votent les salariés qui contribuent à un projet open source sur GitHub. Propositions acceptées en continu, sélection trimestrielle.
+- **Conditions pour le projet** : utilisé par Microsoft ; « The project must have an OSI-approved open source license » ; capable de recevoir des fonds acceptés par les services achats et juridique de Microsoft (GitHub Sponsors de préférence) ; pas détenu par un salarié de Microsoft ; la diversité, l'équité et l'inclusion sont à privilégier dans les propositions
+- **Exemples** : FOSS Fund 36 (mars 2026) : actix, aiohttp, Apache Solr, cheerio, cucumber, onnx, byte-buddy, core-js… ; tours antérieurs : webpack, Godot Engine, GNOME, OpenSSL, curl, OpenStreetMap, QEMU, Debian, LLVM, Mastodon
+- **Pour le développeur** : être une dépendance utilisée chez Microsoft et proposée par une personne salariée
+
+**Source** : [Microsoft — FOSS Fund](https://github.com/microsoft/foss-fund)
+
+## Spotify FOSS Fund
+
+- **Type** : fonds d'entreprise, sans candidature des projets
+- **Principe** : créé en 2022 avec 100 000 € pour la première année. Les équipes R&D de Spotify proposent des projets, en s'appuyant sur les données de dépendances de ses dépôts internes ; un comité choisit parmi les projets éligibles.
+- **Critères** (annonce de 2022) : projets gérés de façon indépendante, pas par des personnes employées par Spotify, conformes aux valeurs de l'entreprise, activement maintenus, et pour lesquels le soutien financier compte vraiment
+- **Exemples** (fonds 2025, article de janvier 2026) : FFmpeg (30 000 €), Mock Service Worker (15 000 €), Xiph.Org Foundation (25 000 €)
+- **Licence** : aucune condition mentionnée
+
+**Sources** : [Spotify — annonce du FOSS Fund (2022)](https://engineering.atspotify.com/2022/4/announcing-the-spotify-foss-fund) ; [Spotify — bénéficiaires 2025](https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund)
+
